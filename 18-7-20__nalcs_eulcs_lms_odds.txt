@@ -1,0 +1,697 @@
+Date	Time	matchup	record	team1	team2	B's	league
+03 Sep 2017 - Summer - Play offs	8:00:00 PM	Immortals - Team Solomid	1:03:00 AM	2.38	1.56	12	NALCS
+03 Sep 2017 - Summer - Play offs	4:00:00 PM	Misfits - G2 Esports	12:03:00 AM	2.8	1.43	12	EULCS
+27 Aug 2017 - Summer - Play offs	8:00:00 PM	Team Solomid - Team Dignitas	3:01:00 AM	1.41	2.95	12	NALCS
+27 Aug 2017 - Summer - Play offs	4:00:00 PM	H2k-Gaming - G2 Esports	12:03:00 AM	2.19	1.65	12	EULCS
+26 Aug 2017 - Summer - Play offs	4:00:00 PM	Fnatic - Misfits	1:03:00 AM	1.2	4.72	11	EULCS
+20 Aug 2017 - Summer - Play offs	8:00:00 PM	Counter Logic Gaming - Team EnVyUs	3:02:00 AM	1.36	3.15	12	NALCS
+20 Aug 2017 - Summer - Play offs	4:00:00 PM	G2 Esports - Splyce	3:02:00 AM	1.31	3.52	12	EULCS
+19 Aug 2017 - Summer - Play offs	8:00:00 PM	Cloud9 - Team Dignitas	1:03:00 AM	1.55	2.43	12	NALCS
+19 Aug 2017 - Summer - Play offs	4:00:00 PM	Unicorns of Love - Misfits	12:03:00 AM	1.39	3.03	12	EULCS
+13 Aug 2017 - Summer Season	7:00:00 PM	H2k-Gaming - Unicorns of Love	1:02:00 AM	1.61	2.35	8	EULCS
+13 Aug 2017 - Summer Season	4:00:00 PM	Splyce - Vitality	2:00:00 AM	1.4	2.89	8	EULCS
+12 Aug 2017 - Summer Season	7:00:00 PM	Fnatic - G2 Esports	2:00:00 AM	1.69	2.15	8	EULCS
+12 Aug 2017 - Summer Season	4:00:00 PM	Roccat - Misfits	2:00:00 AM	2.64	1.46	8	EULCS
+11 Aug 2017 - Summer Season	7:00:00 PM	Unicorns of Love - Vitality	12:02:00 AM	1.2	4	7	EULCS
+11 Aug 2017 - Summer Season	4:20:00 PM	H2k-Gaming - Mysterious Monkeys	2:00:00 AM	1.09	6.9	7	EULCS
+10 Aug 2017 - Summer Season	7:00:00 PM	Ninjas in Pyjamas - Fnatic	2:00:00 AM	9.08	1.06	3	EULCS
+10 Aug 2017 - Summer Season	4:00:00 PM	G2 Esports - Roccat	1:02:00 AM	1.22	4.18	12	EULCS
+06 Aug 2017 - Summer Season	11:00:00 PM	Cloud9 - Echo Fox	2:00:00 AM	1.27	3.58	12	NALCS
+06 Aug 2017 - Summer Season	11:00:00 PM	Team Solomid - Counter Logic Gaming	2:00:00 AM	1.44	2.68	12	NALCS
+06 Aug 2017 - Summer Season	10:59:00 PM	FlyQuest eSports - Phoenix1	2:00:00 AM	1.99	1.79	12	NALCS
+06 Aug 2017 - Summer Season	8:00:00 PM	Team Liquid - Team Dignitas	1:02:00 AM	3.33	1.31	12	NALCS
+05 Aug 2017 - Summer Season	11:00:00 PM	Echo Fox - Immortals	12:02:00 AM	3.61	1.27	11	NALCS
+05 Aug 2017 - Summer Season	11:00:00 PM	FlyQuest eSports - Team Liquid	2:01:00 AM	1.89	1.86	11	NALCS
+05 Aug 2017 - Summer Season	8:00:00 PM	Phoenix1 - Team Solomid	12:02:00 AM	4.17	1.21	9	NALCS
+05 Aug 2017 - Summer Season	8:00:00 PM	Team EnVyUs - Cloud9	12:02:00 AM	2.58	1.48	12	NALCS
+05 Aug 2017 - Summer Season	7:00:00 PM	Splyce - Unicorns of Love	12:02:00 AM	2.43	1.55	8	EULCS
+05 Aug 2017 - Summer Season	4:00:00 PM	Ninjas in Pyjamas - Misfits	1:02:00 AM	4.44	1.2	8	EULCS
+05 Aug 2017 - Summer Season	2:00:00 AM	Team Dignitas - Counter Logic Gaming	1:02:00 AM	1.86	1.9	12	NALCS
+04 Aug 2017 - Summer Season	11:00:00 PM	Team EnVyUs - Immortals	12:02:00 AM	2.61	1.47	12	NALCS
+04 Aug 2017 - Summer Season	7:00:00 PM	Fnatic - Roccat	2:00:00 AM	1.13	6.1	8	EULCS
+04 Aug 2017 - Summer Season	4:00:00 PM	H2k-Gaming - Vitality	2:00:00 AM	1.2	4.39	8	EULCS
+03 Aug 2017 - Summer Season	7:00:00 PM	Misfits - G2 Esports	12:02:00 AM	3.18	1.33	10	EULCS
+03 Aug 2017 - Summer Season	4:00:00 PM	Splyce - Mysterious Monkeys	2:00:00 AM	1.25	3.78	10	EULCS
+30 Jul 2017 - Summer Season	11:00:00 PM	Echo Fox - Team Dignitas	1:02:00 AM	3.04	1.36	12	NALCS
+30 Jul 2017 - Summer Season	11:00:00 PM	Team Solomid - Team EnVyUs	2:01:00 AM	1.26	3.7	12	NALCS
+30 Jul 2017 - Summer Season	8:00:00 PM	Cloud9 - FlyQuest eSports	2:00:00 AM	1.31	3.36	12	NALCS
+30 Jul 2017 - Summer Season	8:00:00 PM	Counter Logic Gaming - Phoenix1	1:02:00 AM	1.27	3.63	12	NALCS
+29 Jul 2017 - Summer Season	11:00:00 PM	Team Dignitas - Immortals	2:01:00 AM	2.36	1.56	12	NALCS
+29 Jul 2017 - Summer Season	11:00:00 PM	Team Liquid - Cloud9	1:02:00 AM	3.44	1.29	12	NALCS
+29 Jul 2017 - Summer Season	8:00:00 PM	FlyQuest eSports - Team Solomid	12:02:00 AM	4.14	1.22	12	NALCS
+29 Jul 2017 - Summer Season	8:00:00 PM	Team EnVyUs - Counter Logic Gaming	12:02:00 AM	2.38	1.55	12	NALCS
+29 Jul 2017 - Summer Season	7:00:00 PM	Mysterious Monkeys - Unicorns of Love	1:02:00 AM	7.1	1.11	7	EULCS
+29 Jul 2017 - Summer Season	4:00:00 PM	Ninjas in Pyjamas - Roccat	2:00:00 AM	3.87	1.24	7	EULCS
+29 Jul 2017 - Summer Season	2:00:00 AM	Team Liquid - Immortals	12:02:00 AM	3.18	1.32	11	NALCS
+28 Jul 2017 - Summer Season	11:00:00 PM	Phoenix1 - Echo Fox	12:02:00 AM	1.77	1.99	11	NALCS
+28 Jul 2017 - Summer Season	6:00:00 PM	Fnatic - Misfits	2:00:00 AM	1.33	3.24	8	EULCS
+28 Jul 2017 - Summer Season	4:00:00 PM	Splyce - H2k-Gaming	12:02:00 AM	2.75	1.44	8	EULCS
+27 Jul 2017 - Summer Season	7:00:00 PM	G2 Esports - Ninjas in Pyjamas	2:00:00 AM	1.05	9.33	7	EULCS
+27 Jul 2017 - Summer Season	4:00:00 PM	Mysterious Monkeys - Vitality	12:02:00 AM	2.71	1.45	7	EULCS
+23 Jul 2017 - Summer Season	11:00:00 PM	Team EnVyUs - FlyQuest eSports	2:01:00 AM	1.46	2.62	12	NALCS
+23 Jul 2017 - Summer Season	11:00:00 PM	Counter Logic Gaming - Immortals	1:02:00 AM	1.91	1.83	12	NALCS
+23 Jul 2017 - Summer Season	8:00:00 PM	Echo Fox - Team Solomid	1:02:00 AM	4.67	1.18	12	NALCS
+23 Jul 2017 - Summer Season	8:00:00 PM	Team Dignitas - Cloud9	1:02:00 AM	1.97	1.8	12	NALCS
+23 Jul 2017 - Summer Season	4:00:00 PM	Misfits - Splyce	1:02:00 AM	1.63	2.23	7	EULCS
+22 Jul 2017 - Summer Season	11:00:00 PM	FlyQuest eSports - Immortals	1:02:00 AM	4.15	1.25	12	NALCS
+22 Jul 2017 - Summer Season	11:00:00 PM	Phoenix1 - Team Liquid	12:02:00 AM	1.43	2.92	12	NALCS
+22 Jul 2017 - Summer Season	8:00:00 PM	Counter Logic Gaming - Echo Fox	2:00:00 AM	1.25	3.78	12	NALCS
+22 Jul 2017 - Summer Season	8:00:00 PM	Team Solomid - Team Dignitas	12:02:00 AM	1.39	2.89	12	NALCS
+22 Jul 2017 - Summer Season	7:00:00 PM	G2 Esports - Vitality	2:01:00 AM	1.1	7	6	EULCS
+22 Jul 2017 - Summer Season	4:00:00 PM	Fnatic - Unicorns of Love	2:01:00 AM	1.44	2.66	9	EULCS
+22 Jul 2017 - Summer Season	2:00:00 AM	Team Liquid - Team EnVyUs	2:01:00 AM	3.41	1.29	12	NALCS
+21 Jul 2017 - Summer Season	11:00:00 PM	Cloud9 - Phoenix1	2:01:00 AM	1.57	2.32	12	NALCS
+21 Jul 2017 - Summer Season	7:00:00 PM	Ninjas in Pyjamas - Splyce	12:02:00 AM	4.7	1.2	7	EULCS
+21 Jul 2017 - Summer Season	4:00:00 PM	Misfits - Mysterious Monkeys	2:00:00 AM	1.26	3.65	7	EULCS
+20 Jul 2017 - Summer Season	7:00:00 PM	Roccat - Unicorns of Love	2:01:00 AM	5	1.18	6	EULCS
+20 Jul 2017 - Summer Season	4:00:00 PM	H2k-Gaming - G2 Esports	1:02:00 AM	2.06	1.69	7	EULCS
+16 Jul 2017 - Summer Season	11:00:00 PM	Echo Fox - Team EnVyUs	1:02:00 AM	2.41	1.56	12	NALCS
+16 Jul 2017 - Summer Season	11:00:00 PM	Team Solomid - Team Liquid	2:00:00 AM	1.12	5.92	12	NALCS
+16 Jul 2017 - Summer Season	8:00:00 PM	Cloud9 - Immortals	1:02:00 AM	2.04	1.74	12	NALCS
+16 Jul 2017 - Summer Season	8:00:00 PM	Team Dignitas - Phoenix1	2:01:00 AM	1.87	1.89	12	NALCS
+15 Jul 2017 - Summer Season	11:00:00 PM	Cloud9 - Team EnVyUs	12:02:00 AM	1.31	3.35	12	NALCS
+15 Jul 2017 - Summer Season	11:00:00 PM	Team Liquid - FlyQuest eSports	12:02:00 AM	2.2	1.65	12	NALCS
+15 Jul 2017 - Summer Season	8:00:00 PM	Counter Logic Gaming - Team Dignitas	12:02:00 AM	1.36	2.94	11	NALCS
+15 Jul 2017 - Summer Season	8:00:00 PM	Team Solomid - Phoenix1	2:00:00 AM	1.36	2.95	12	NALCS
+15 Jul 2017 - Summer Season	7:00:00 PM	Fnatic - Vitality	2:00:00 AM	1.16	4.78	8	EULCS
+15 Jul 2017 - Summer Season	4:00:00 PM	Roccat - Mysterious Monkeys	1:02:00 AM	1.43	2.74	8	EULCS
+15 Jul 2017 - Summer Season	1:17:00 AM	Immortals - Echo Fox	2:00:00 AM	1.34	3.15	12	NALCS
+14 Jul 2017 - Summer Season	11:00:00 PM	Counter Logic Gaming - FlyQuest eSports	2:00:00 AM	1.26	3.66	12	NALCS
+14 Jul 2017 - Summer Season	6:00:00 PM	Misfits - Unicorns of Love	1:02:00 AM	2.6	1.48	8	EULCS
+14 Jul 2017 - Summer Season	4:00:00 PM	Splyce - G2 Esports	12:02:00 AM	2.71	1.45	8	EULCS
+13 Jul 2017 - Summer Season	7:00:00 PM	Roccat - H2k-Gaming	12:02:00 AM	3.58	1.28	8	EULCS
+13 Jul 2017 - Summer Season	4:00:00 PM	Ninjas in Pyjamas - Vitality	1:02:00 AM	2.92	1.39	8	EULCS
+02 Jul 2017 - Summer Season	11:00:00 PM	Team EnVyUs - Team Dignitas	2:01:00 AM	2.21	1.63	12	NALCS
+02 Jul 2017 - Summer Season	11:00:00 PM	Team Liquid - Counter Logic Gaming	12:02:00 AM	3.62	1.27	12	NALCS
+02 Jul 2017 - Summer Season	8:00:00 PM	FlyQuest eSports - Echo Fox	2:01:00 AM	2.15	1.65	12	NALCS
+02 Jul 2017 - Summer Season	8:00:00 PM	Phoenix1 - Immortals	2:01:00 AM	3.72	1.26	12	NALCS
+01 Jul 2017 - Summer Season	11:00:00 PM	Echo Fox - Team Liquid	2:01:00 AM	1.64	2.19	12	NALCS
+01 Jul 2017 - Summer Season	11:00:00 PM	Team Dignitas - FlyQuest eSports	1:02:00 AM	1.32	3.24	12	NALCS
+01 Jul 2017 - Summer Season	8:00:00 PM	Counter Logic Gaming - Cloud9	2:01:00 AM	2.2	1.64	12	NALCS
+01 Jul 2017 - Summer Season	8:00:00 PM	Team Solomid - Immortals	2:00:00 AM	1.75	2.01	12	NALCS
+01 Jul 2017 - Summer Season	6:15:00 PM	Ninjas in Pyjamas - Unicorns of Love	1:02:00 AM	8.11	1.07	7	EULCS
+01 Jul 2017 - Summer Season	4:00:00 PM	Mysterious Monkeys - G2 Esports	12:02:00 AM	6.79	1.09	8	EULCS
+01 Jul 2017 - Summer Season	2:00:00 AM	Phoenix1 - Team EnVyUs	2:01:00 AM	2.53	1.48	13	NALCS
+30 Jun 2017 - Summer Season	11:00:00 PM	Cloud9 - Team Solomid	2:01:00 AM	2.51	1.5	13	NALCS
+30 Jun 2017 - Summer Season	7:00:00 PM	Misfits - H2k-Gaming	12:02:00 AM	2.26	1.63	9	EULCS
+30 Jun 2017 - Summer Season	4:00:00 PM	Roccat - Vitality	12:02:00 AM	1.36	3.04	9	EULCS
+29 Jun 2017 - Summer Season	7:00:00 PM	Fnatic - Splyce	2:00:00 AM	1.37	3.2	9	EULCS
+29 Jun 2017 - Summer Season	4:00:00 PM	Ninjas in Pyjamas - Mysterious Monkeys	12:02:00 AM	1.98	1.77	9	EULCS
+25 Jun 2017 - Summer Season	11:00:00 PM	Cloud9 - Team Dignitas	2:01:00 AM	1.48	2.6	13	NALCS
+25 Jun 2017 - Summer Season	11:00:00 PM	FlyQuest eSports - Team EnVyUs	1:02:00 AM	2.4	1.54	13	NALCS
+25 Jun 2017 - Summer Season	8:10:00 PM	Team Liquid - Phoenix1	2:01:00 AM	2.72	1.44	13	NALCS
+25 Jun 2017 - Summer Season	8:10:00 PM	Team Solomid - Echo Fox	2:00:00 AM	1.27	3.65	13	NALCS
+24 Jun 2017 - Summer Season	11:00:00 PM	Cloud9 - Team Liquid	2:00:00 AM	1.18	4.3	12	NALCS
+24 Jun 2017 - Summer Season	11:00:00 PM	Immortals - Team Dignitas	2:01:00 AM	1.44	2.69	12	NALCS
+24 Jun 2017 - Summer Season	8:00:00 PM	Counter Logic Gaming - Team EnVyUs	2:01:00 AM	1.39	2.92	13	NALCS
+24 Jun 2017 - Summer Season	8:00:00 PM	Team Solomid - FlyQuest eSports	2:00:00 AM	1.24	3.9	13	NALCS
+24 Jun 2017 - Summer Season	7:00:00 PM	Fnatic - Mysterious Monkeys	2:00:00 AM	1.1	6.7	8	EULCS
+24 Jun 2017 - Summer Season	4:00:00 PM	Ninjas in Pyjamas - H2k-Gaming	12:02:00 AM	7.72	1.07	8	EULCS
+24 Jun 2017 - Summer Season	2:00:00 AM	Echo Fox - Phoenix1	12:02:00 AM	1.58	2.37	13	NALCS
+23 Jun 2017 - Summer Season	11:00:00 PM	Immortals - Counter Logic Gaming	2:00:00 AM	1.82	1.94	13	NALCS
+23 Jun 2017 - Summer Season	7:00:00 PM	Unicorns of Love - G2 Esports	2:01:00 AM	2.15	1.68	7	EULCS
+23 Jun 2017 - Summer Season	4:00:00 PM	Roccat - Splyce	1:02:00 AM	2.38	1.56	7	EULCS
+22 Jun 2017 - Summer Season	7:00:00 PM	Fnatic - H2k-Gaming	2:00:00 AM	1.67	2.13	8	EULCS
+22 Jun 2017 - Summer Season	4:00:00 PM	Misfits - Vitality	2:01:00 AM	1.25	3.81	8	EULCS
+18 Jun 2017 - Summer Season	11:00:00 PM	FlyQuest eSports - Cloud9	12:02:00 AM	3.6	1.28	13	NALCS
+18 Jun 2017 - Summer Season	11:00:00 PM	Team Dignitas - Echo Fox	2:01:00 AM	1.65	2.2	13	NALCS
+18 Jun 2017 - Summer Season	8:00:00 PM	Phoenix1 - Counter Logic Gaming	1:02:00 AM	3.34	1.31	13	NALCS
+18 Jun 2017 - Summer Season	8:00:00 PM	Team EnVyUs - Team Solomid	12:02:00 AM	2.7	1.45	13	NALCS
+17 Jun 2017 - Summer Season	11:00:00 PM	FlyQuest eSports - Counter Logic Gaming	1:02:00 AM	3.08	1.35	12	NALCS
+17 Jun 2017 - Summer Season	11:00:00 PM	Phoenix1 - Team Dignitas	1:02:00 AM	2.64	1.46	13	NALCS
+17 Jun 2017 - Summer Season	8:00:00 PM	Immortals - Cloud9	2:01:00 AM	2.37	1.56	12	NALCS
+17 Jun 2017 - Summer Season	8:00:00 PM	Team Liquid - Team Solomid	12:02:00 AM	5.26	1.14	12	NALCS
+17 Jun 2017 - Summer Season	7:00:00 PM	H2k-Gaming - Vitality	2:00:00 AM	1.21	4.54	9	EULCS
+17 Jun 2017 - Summer Season	4:00:00 PM	Ninjas in Pyjamas - Roccat	12:02:00 AM	2.58	1.49	9	EULCS
+17 Jun 2017 - Summer Season	2:00:00 AM	Team EnVyUs - Echo Fox	12:02:00 AM	1.61	2.23	13	NALCS
+16 Jun 2017 - Summer Season	11:00:00 PM	Immortals - Team Liquid	2:00:00 AM	1.34	3.14	13	NALCS
+16 Jun 2017 - Summer Season	7:00:00 PM	Splyce - Unicorns of Love	2:01:00 AM	3.51	1.3	9	EULCS
+16 Jun 2017 - Summer Season	4:00:00 PM	Misfits - G2 Esports	2:01:00 AM	4.04	1.23	9	EULCS
+15 Jun 2017 - Summer Season	7:00:00 PM	Roccat - Fnatic	2:01:00 AM	5.9	1.14	9	EULCS
+15 Jun 2017 - Summer Season	4:00:00 PM	Vitality - Mysterious Monkeys	2:00:00 AM	1.48	2.54	9	EULCS
+11 Jun 2017 - Summer Season	11:00:00 PM	Counter Logic Gaming - Team Solomid	1:02:00 AM	1.96	1.81	13	NALCS
+11 Jun 2017 - Summer Season	11:00:00 PM	Phoenix1 - FlyQuest eSports	12:02:00 AM	1.48	2.59	13	NALCS
+11 Jun 2017 - Summer Season	8:00:00 PM	Echo Fox - Cloud9	12:02:00 AM	3.25	1.32	13	NALCS
+11 Jun 2017 - Summer Season	8:00:00 PM	Team Dignitas - Team Liquid	1:02:00 AM	1.25	3.8	13	NALCS
+11 Jun 2017 - Summer Season	6:00:00 PM	H2k-Gaming - Unicorns of Love	1:02:00 AM	2.11	1.72	8	EULCS
+11 Jun 2017 - Summer Season	4:00:00 PM	Splyce - Mysterious Monkeys	2:00:00 AM	1.22	4.3	9	EULCS
+10 Jun 2017 - Summer Season	11:00:00 PM	Immortals - FlyQuest eSports	2:01:00 AM	1.36	3.01	13	NALCS
+10 Jun 2017 - Summer Season	11:00:00 PM	Team EnVyUs - Team Liquid	2:01:00 AM	1.36	3.05	13	NALCS
+10 Jun 2017 - Summer Season	8:00:00 PM	Echo Fox - Counter Logic Gaming	1:02:00 AM	2.41	1.54	13	NALCS
+10 Jun 2017 - Summer Season	8:00:00 PM	Team Dignitas - Team Solomid	2:01:00 AM	3.01	1.36	13	NALCS
+10 Jun 2017 - Summer Season	7:00:00 PM	Ninjas in Pyjamas - G2 Esports	12:02:00 AM	7.23	1.09	8	EULCS
+10 Jun 2017 - Summer Season	4:00:00 PM	Misfits - Roccat	2:01:00 AM	1.61	2.27	9	EULCS
+10 Jun 2017 - Summer Season	1:00:00 AM	Immortals - Team EnVyUs	12:02:00 AM	1.31	3.34	13	NALCS
+09 Jun 2017 - Summer Season	11:00:00 PM	Phoenix1 - Cloud9	12:02:00 AM	2.78	1.44	13	NALCS
+09 Jun 2017 - Summer Season	6:00:00 PM	Mysterious Monkeys - Unicorns of Love	12:02:00 AM	6.76	1.1	9	EULCS
+09 Jun 2017 - Summer Season	4:00:00 PM	Splyce - Vitality	2:00:00 AM	1.38	2.98	9	EULCS
+08 Jun 2017 - Summer Season	7:00:00 PM	G2 Esports - Fnatic	1:02:00 AM	1.6	2.16	7	EULCS
+08 Jun 2017 - Summer Season	4:00:00 PM	Misfits - Ninjas in Pyjamas	2:00:00 AM	1.38	2.94	7	EULCS
+04 Jun 2017 - Summer Season	11:00:00 PM	FlyQuest eSports - Team Dignitas	12:02:00 AM	2.41	1.53	13	NALCS
+04 Jun 2017 - Summer Season	11:00:00 PM	Team Liquid - Echo Fox	12:02:00 AM	1.71	2.06	13	NALCS
+04 Jun 2017 - Summer Season	8:00:00 PM	Immortals - Team Solomid	2:00:00 AM	4.04	1.22	13	NALCS
+04 Jun 2017 - Summer Season	8:00:00 PM	Team EnVyUs - Phoenix1	2:01:00 AM	5.06	1.15	13	NALCS
+03 Jun 2017 - Summer Season	11:00:00 PM	Team Dignitas - Team EnVyUs	2:01:00 AM	1.24	3.74	11	NALCS
+03 Jun 2017 - Summer Season	11:00:00 PM	Team Solomid - Cloud9	2:00:00 AM	1.43	2.69	12	NALCS
+03 Jun 2017 - Summer Season	8:00:00 PM	Counter Logic Gaming - Team Liquid	2:00:00 AM	1.28	3.43	12	NALCS
+03 Jun 2017 - Summer Season	8:00:00 PM	Echo Fox - FlyQuest eSports	2:00:00 AM	2.79	1.4	12	NALCS
+03 Jun 2017 - Summer Season	7:00:00 PM	Ninjas in Pyjamas - Fnatic	12:02:00 AM	4	1.22	5	EULCS
+03 Jun 2017 - Summer Season	4:00:00 PM	H2k-Gaming - Mysterious Monkeys	2:00:00 AM	1.14	5.37	9	EULCS
+03 Jun 2017 - Summer Season	2:00:00 AM	Immortals - Phoenix1	2:01:00 AM	2.85	1.38	10	NALCS
+02 Jun 2017 - Summer Season	11:00:00 PM	Cloud9 - Counter Logic Gaming	1:02:00 AM	1.51	2.45	12	NALCS
+02 Jun 2017 - Summer Season	7:00:00 PM	Vitality - Unicorns of Love	12:02:00 AM	3.93	1.24	9	EULCS
+02 Jun 2017 - Summer Season	4:00:00 PM	Roccat - G2 Esports	1:02:00 AM	2.25	1.61	9	EULCS
+01 Jun 2017 - Summer Season	7:00:00 PM	Misfits - Fnatic	12:02:00 AM	2.59	1.52	8	EULCS
+01 Jun 2017 - Summer Season	4:00:00 PM	H2k-Gaming - Splyce	2:00:00 AM	1.46	2.61	8	EULCS
+23 Apr 2017 - Spring - Play Offs	8:00:00 PM	Team Solomid - Cloud9	3:02:00 AM	1.76	1.98	12	NALCS
+22 Apr 2017 - Spring - Play Offs	8:00:00 PM	FlyQuest eSports - Phoenix1	2:03:00 AM	1.39	2.87	3	NALCS
+16 Apr 2017 - Spring - Play Offs	8:00:00 PM	Team Solomid - FlyQuest eSports	3:00:00 AM	1.18	4.54	12	NALCS
+16 Apr 2017 - Spring - Play Offs	4:00:00 PM	Unicorns of Love - Misfits	3:01:00 AM	1.51	2.46	12	EULCS
+15 Apr 2017 - Spring - Play Offs	8:00:00 PM	Cloud9 - Phoenix1	3:00:00 AM	1.54	2.38	12	NALCS
+15 Apr 2017 - Spring - Play Offs	4:00:00 PM	G2 Esports - Fnatic	3:01:00 AM	1.34	3.13	11	EULCS
+09 Apr 2017 - Spring - Play Offs	8:00:00 PM	Counter Logic Gaming - FlyQuest eSports	2:03:00 AM	1.55	2.36	12	NALCS
+09 Apr 2017 - Spring - Play Offs	4:00:00 PM	H2k-Gaming - Fnatic	12:03:00 AM	1.23	3.84	12	EULCS
+08 Apr 2017 - Spring - Play Offs	8:00:00 PM	Phoenix1 - Team Dignitas	3:00:00 AM	1.5	2.48	12	NALCS
+08 Apr 2017 - Spring - Play Offs	4:00:00 PM	Misfits - Splyce	3:02:00 AM	1.78	1.96	12	EULCS
+02 Apr 2017 - Spring Season	8:00:00 PM	Fnatic - Misfits	2:01:00 AM	2.5	1.51	4	EULCS
+02 Apr 2017 - Spring Season	5:00:00 PM	Splyce - H2k-Gaming	12:02:00 AM	2.39	1.58	4	EULCS
+01 Apr 2017 - Spring Season	8:00:00 PM	G2 Esports - Roccat	1:02:00 AM	1.12	5.4	2	EULCS
+01 Apr 2017 - Spring Season	5:00:00 PM	Vitality - Unicorns of Love	12:02:00 AM	6.15	1.1	2	EULCS
+31 Mar 2017 - Spring Season	9:00:00 PM	Giants Gaming - Misfits	12:02:00 AM	5	1.11	3	EULCS
+31 Mar 2017 - Spring Season	6:00:00 PM	Origen - H2k-Gaming	12:02:00 AM	8.02	1.04	3	EULCS
+30 Mar 2017 - Spring Season	9:00:00 PM	G2 Esports - Fnatic	2:01:00 AM	1.11	5.58	3	EULCS
+30 Mar 2017 - Spring Season	6:00:00 PM	Splyce - Unicorns of Love	1:02:00 AM	2.38	1.52	3	EULCS
+26 Mar 2017 - Spring Season	11:00:00 PM	Counter Logic Gaming - Team EnVyUs	2:01:00 AM	1.4	2.76	10	NALCS
+26 Mar 2017 - Spring Season	11:00:00 PM	FlyQuest eSports - Team Liquid	2:01:00 AM	1.91	1.87	12	NALCS
+26 Mar 2017 - Spring Season	8:00:00 PM	Team Dignitas - Immortals	2:00:00 AM	1.87	1.84	11	NALCS
+26 Mar 2017 - Spring Season	8:00:00 PM	Team Solomid - Phoenix1	2:00:00 AM	1.53	2.37	12	NALCS
+25 Mar 2017 - Spring Season	11:00:00 PM	Echo Fox - Team EnVyUs	2:01:00 AM	1.91	1.81	9	NALCS
+25 Mar 2017 - Spring Season	8:00:00 PM	Cloud9 - Phoenix1	2:00:00 AM	1.85	1.89	12	NALCS
+25 Mar 2017 - Spring Season	8:00:00 PM	Immortals - Counter Logic Gaming	2:00:00 AM	1.87	1.88	12	NALCS
+25 Mar 2017 - Spring Season	8:00:00 PM	Team Liquid - Team Solomid	2:01:00 AM	6.16	1.1	9	NALCS
+25 Mar 2017 - Spring Season	7:00:00 PM	Fnatic - Giants Gaming	2:01:00 AM	1.37	2.95	9	EULCS
+25 Mar 2017 - Spring Season	4:00:00 PM	Vitality - H2k-Gaming	1:02:00 AM	6.25	1.1	9	EULCS
+25 Mar 2017 - Spring Season	2:00:00 AM	FlyQuest eSports - Echo Fox	2:00:00 AM	1.52	2.42	12	NALCS
+24 Mar 2017 - Spring Season	11:00:00 PM	Cloud9 - Team Dignitas	2:00:00 AM	1.46	2.59	12	NALCS
+24 Mar 2017 - Spring Season	8:00:00 PM	Origen - Unicorns of Love	12:02:00 AM	8.3	1.06	9	EULCS
+24 Mar 2017 - Spring Season	5:00:00 PM	Roccat - Misfits	2:00:00 AM	4.41	1.18	9	EULCS
+23 Mar 2017 - Spring Season	8:00:00 PM	G2 Esports - Giants Gaming	2:00:00 AM	1.07	7.65	7	EULCS
+23 Mar 2017 - Spring Season	5:00:00 PM	Vitality - Splyce	12:02:00 AM	5.2	1.13	8	EULCS
+19 Mar 2017 - Spring Season	10:10:00 PM	Team EnVyUs - Cloud9	1:02:00 AM	4.77	1.16	12	NALCS
+19 Mar 2017 - Spring Season	9:55:00 PM	Counter Logic Gaming - FlyQuest eSports	2:00:00 AM	1.64	2.16	12	NALCS
+19 Mar 2017 - Spring Season	8:10:00 PM	Phoenix1 - Immortals	2:00:00 AM	1.39	2.85	12	NALCS
+19 Mar 2017 - Spring Season	8:10:00 PM	Team Solomid - Echo Fox	2:00:00 AM	1.15	5.16	12	NALCS
+18 Mar 2017 - Spring Season	11:25:00 PM	Team Liquid - Phoenix1	12:02:00 AM	3.53	1.27	12	NALCS
+18 Mar 2017 - Spring Season	10:55:00 PM	Team Solomid - FlyQuest eSports	2:01:00 AM	1.21	4.17	12	NALCS
+18 Mar 2017 - Spring Season	8:10:00 PM	Cloud9 - Immortals	1:02:00 AM	1.3	3.36	12	NALCS
+18 Mar 2017 - Spring Season	8:10:00 PM	Team EnVyUs - Team Dignitas	1:02:00 AM	2.83	1.39	12	NALCS
+18 Mar 2017 - Spring Season	6:00:00 PM	Splyce - Origen	2:00:00 AM	1.11	5.93	6	EULCS
+18 Mar 2017 - Spring Season	3:00:00 PM	Roccat - Giants Gaming	2:00:00 AM	1.67	2.11	7	EULCS
+18 Mar 2017 - Spring Season	2:00:00 AM	Echo Fox - Counter Logic Gaming	12:02:00 AM	2.76	1.42	11	NALCS
+17 Mar 2017 - Spring Season	11:00:00 PM	Team Dignitas - Team Liquid	2:00:00 AM	1.61	2.22	11	NALCS
+17 Mar 2017 - Spring Season	7:00:00 PM	G2 Esports - Misfits	2:01:00 AM	1.34	3.11	8	EULCS
+17 Mar 2017 - Spring Season	4:00:00 PM	Unicorns of Love - H2k-Gaming	2:00:00 AM	2.49	1.49	7	EULCS
+16 Mar 2017 - Spring Season	7:00:00 PM	Roccat - Fnatic	2:01:00 AM	3.58	1.27	8	EULCS
+16 Mar 2017 - Spring Season	4:00:00 PM	Vitality - Origen	2:00:00 AM	1.36	2.98	8	EULCS
+12 Mar 2017 - Spring Season	11:00:00 PM	Echo Fox - Team Dignitas	1:02:00 AM	2.09	1.67	11	NALCS
+12 Mar 2017 - Spring Season	11:00:00 PM	Immortals - Team Solomid	1:02:00 AM	3.61	1.25	12	NALCS
+12 Mar 2017 - Spring Season	11:00:00 PM	Team Liquid - Team EnVyUs	2:01:00 AM	1.33	3.18	11	NALCS
+12 Mar 2017 - Spring Season	8:00:00 PM	Counter Logic Gaming - Cloud9	2:01:00 AM	3.5	1.27	12	NALCS
+12 Mar 2017 - Spring Season	4:10:00 PM	Origen - Giants Gaming	1:02:00 AM	2.84	1.34	6	EULCS
+11 Mar 2017 - Spring Season	11:00:00 PM	FlyQuest eSports - Immortals	12:02:00 AM	1.52	2.41	12	NALCS
+11 Mar 2017 - Spring Season	11:00:00 PM	Phoenix1 - Echo Fox	2:00:00 AM	1.35	2.99	12	NALCS
+11 Mar 2017 - Spring Season	8:00:00 PM	Counter Logic Gaming - Team Dignitas	12:02:00 AM	1.53	2.4	12	NALCS
+11 Mar 2017 - Spring Season	8:00:00 PM	Team EnVyUs - Team Solomid	1:02:00 AM	5.6	1.11	12	NALCS
+11 Mar 2017 - Spring Season	6:00:00 PM	Misfits - H2k-Gaming	12:02:00 AM	1.75	2	11	EULCS
+11 Mar 2017 - Spring Season	3:00:00 PM	Vitality - Roccat	12:02:00 AM	1.48	2.53	11	EULCS
+11 Mar 2017 - Spring Season	2:00:00 AM	FlyQuest eSports - Phoenix1	12:02:00 AM	1.7	2.02	11	NALCS
+10 Mar 2017 - Spring Season	11:00:00 PM	Team Liquid - Cloud9	12:02:00 AM	3.81	1.23	11	NALCS
+10 Mar 2017 - Spring Season	7:05:00 PM	Fnatic - Unicorns of Love	1:02:00 AM	2.93	1.37	8	EULCS
+10 Mar 2017 - Spring Season	4:10:00 PM	G2 Esports - Splyce	2:01:00 AM	1.18	4.58	8	EULCS
+09 Mar 2017 - Spring Season	6:00:00 PM	Roccat - Origen	2:01:00 AM	1.53	2.4	8	EULCS
+09 Mar 2017 - Spring Season	4:00:00 PM	Vitality - Giants Gaming	2:01:00 AM	1.67	2.12	8	EULCS
+05 Mar 2017 - Spring Season	11:00:00 PM	Cloud9 - FlyQuest eSports	2:00:00 AM	1.39	2.75	12	NALCS
+05 Mar 2017 - Spring Season	11:00:00 PM	Immortals - Team EnVyUs	1:02:00 AM	1.35	3.02	12	NALCS
+05 Mar 2017 - Spring Season	8:00:00 PM	Echo Fox - Team Liquid	2:01:00 AM	1.67	2.12	12	NALCS
+05 Mar 2017 - Spring Season	8:00:00 PM	Team Dignitas - Team Solomid	12:02:00 AM	3.21	1.32	12	NALCS
+04 Mar 2017 - Spring Season	11:00:00 PM	Phoenix1 - Team Dignitas	2:01:00 AM	1.47	2.55	12	NALCS
+04 Mar 2017 - Spring Season	11:00:00 PM	Team Solomid - Counter Logic Gaming	2:00:00 AM	1.43	2.6	12	NALCS
+04 Mar 2017 - Spring Season	8:00:00 PM	Echo Fox - Cloud9	12:02:00 AM	3.18	1.32	12	NALCS
+04 Mar 2017 - Spring Season	8:00:00 PM	FlyQuest eSports - Team EnVyUs	2:01:00 AM	1.35	3.03	12	NALCS
+04 Mar 2017 - Spring Season	6:00:00 PM	Roccat - Unicorns of Love	12:02:00 AM	6.28	1.09	8	EULCS
+04 Mar 2017 - Spring Season	3:00:00 PM	Origen - Misfits	12:02:00 AM	7.89	1.06	8	EULCS
+04 Mar 2017 - Spring Season	2:00:00 AM	Phoenix1 - Counter Logic Gaming	1:02:00 AM	1.52	2.4	11	NALCS
+03 Mar 2017 - Spring Season	11:00:00 PM	Immortals - Team Liquid	1:02:00 AM	1.48	2.55	11	NALCS
+03 Mar 2017 - Spring Season	7:00:00 PM	Splyce - Giants Gaming	2:00:00 AM	1.16	4.82	9	EULCS
+03 Mar 2017 - Spring Season	4:00:00 PM	G2 Esports - Vitality	2:00:00 AM	1.06	7.99	9	EULCS
+02 Mar 2017 - Spring Season	7:00:00 PM	Fnatic - H2k-Gaming	12:02:00 AM	2.63	1.45	8	EULCS
+02 Mar 2017 - Spring Season	4:00:00 PM	Unicorns of Love - Misfits	1:02:00 AM	1.95	1.79	8	EULCS
+19 Feb 2017 - Spring Season	11:00:00 PM	Phoenix1 - Cloud9	2:00:00 AM	3.01	1.36	11	NALCS
+19 Feb 2017 - Spring Season	11:00:00 PM	Team Liquid - Counter Logic Gaming	1:02:00 AM	2.23	1.6	11	NALCS
+19 Feb 2017 - Spring Season	8:00:00 PM	Immortals - Echo Fox	2:00:00 AM	2.05	1.71	10	NALCS
+19 Feb 2017 - Spring Season	8:00:00 PM	FlyQuest eSports - Team Solomid	1:02:00 AM	2.18	1.64	11	NALCS
+18 Feb 2017 - Spring Season	11:05:00 PM	Cloud9 - Team Solomid	1:02:00 AM	1.63	2.3	2	NALCS
+18 Feb 2017 - Spring Season	11:00:00 PM	Team EnVyUs - Echo Fox	2:00:00 AM	3.58	1.26	6	NALCS
+18 Feb 2017 - Spring Season	8:00:00 PM	Counter Logic Gaming - Immortals	2:01:00 AM	1.82	1.91	11	NALCS
+18 Feb 2017 - Spring Season	6:00:00 PM	Origen - Fnatic	12:02:00 AM	5.64	1.11	9	EULCS
+18 Feb 2017 - Spring Season	3:00:00 PM	Splyce - Roccat	2:00:00 AM	1.15	4.97	9	EULCS
+18 Feb 2017 - Spring Season	2:00:00 AM	Team EnVyUs - Phoenix1	12:02:00 AM	4.06	1.19	4	NALCS
+17 Feb 2017 - Spring Season	7:00:00 PM	Giants Gaming - H2k-Gaming	12:02:00 AM	4.31	1.15	9	EULCS
+17 Feb 2017 - Spring Season	4:00:00 PM	Vitality - Misfits	12:02:00 AM	4.71	1.17	9	EULCS
+16 Feb 2017 - Spring Season	7:00:00 PM	Splyce - Fnatic	2:01:00 AM	1.74	1.92	9	EULCS
+16 Feb 2017 - Spring Season	4:00:00 PM	G2 Esports - Unicorns of Love	2:00:00 AM	1.7	2.07	9	EULCS
+12 Feb 2017 - Spring Season	11:00:00 PM	FlyQuest eSports - Cloud9	1:02:00 AM	2.42	1.53	11	NALCS
+12 Feb 2017 - Spring Season	11:00:00 PM	Team Dignitas - Team EnVyUs	2:00:00 AM	1.72	2.11	11	NALCS
+12 Feb 2017 - Spring Season	8:00:00 PM	Counter Logic Gaming - Phoenix1	2:01:00 AM	2.53	1.49	11	NALCS
+12 Feb 2017 - Spring Season	8:00:00 PM	Echo Fox - Team Solomid	2:00:00 AM	3.17	1.33	11	NALCS
+11 Feb 2017 - Spring Season	11:00:00 PM	Team Liquid - Immortals	12:02:00 AM	1.58	2.24	10	NALCS
+11 Feb 2017 - Spring Season	11:00:00 PM	Team Solomid - Team EnVyUs	2:00:00 AM	1.11	5.62	10	NALCS
+11 Feb 2017 - Spring Season	8:00:00 PM	Counter Logic Gaming - Echo Fox	12:02:00 AM	1.51	2.45	11	NALCS
+11 Feb 2017 - Spring Season	8:00:00 PM	Phoenix1 - FlyQuest eSports	12:02:00 AM	1.93	1.82	11	NALCS
+11 Feb 2017 - Spring Season	6:00:00 PM	G2 Esports - Origen	2:00:00 AM	1.04	10	9	EULCS
+11 Feb 2017 - Spring Season	3:00:00 PM	Roccat - H2k-Gaming	12:02:00 AM	5.55	1.13	9	EULCS
+11 Feb 2017 - Spring Season	2:00:00 AM	Immortals - Team Dignitas	2:00:00 AM	2.11	1.68	11	NALCS
+10 Feb 2017 - Spring Season	11:00:00 PM	Cloud9 - Team Liquid	2:01:00 AM	1.12	5.61	11	NALCS
+10 Feb 2017 - Spring Season	7:00:00 PM	Vitality - Fnatic	1:02:00 AM	2.61	1.46	9	EULCS
+10 Feb 2017 - Spring Season	4:00:00 PM	Splyce - Misfits	12:02:00 AM	2.25	1.61	9	EULCS
+09 Feb 2017 - Spring Season	7:00:00 PM	G2 Esports - H2k-Gaming	2:01:00 AM	1.32	3.18	9	EULCS
+09 Feb 2017 - Spring Season	4:00:00 PM	Giants Gaming - Unicorns of Love	12:02:00 AM	5.32	1.14	9	EULCS
+05 Feb 2017 - Spring Season	11:00:00 PM	Cloud9 - Echo Fox	2:00:00 AM	1.15	4.95	11	NALCS
+05 Feb 2017 - Spring Season	11:00:00 PM	Immortals - FlyQuest eSports	12:02:00 AM	2.3	1.58	11	NALCS
+05 Feb 2017 - Spring Season	8:00:00 PM	Phoenix1 - Team Solomid	1:02:00 AM	2.07	1.69	11	NALCS
+05 Feb 2017 - Spring Season	8:00:00 PM	Team Dignitas - Counter Logic Gaming	12:02:00 AM	1.98	1.75	11	NALCS
+04 Feb 2017 - Spring Season	11:00:00 PM	Cloud9 - Team EnVyUs	2:00:00 AM	1.11	6.23	11	NALCS
+04 Feb 2017 - Spring Season	11:00:00 PM	Team Liquid - Echo Fox	2:01:00 AM	2.01	1.75	11	NALCS
+04 Feb 2017 - Spring Season	8:00:00 PM	Counter Logic Gaming - Team Solomid	1:02:00 AM	2.94	1.37	11	NALCS
+04 Feb 2017 - Spring Season	8:00:00 PM	FlyQuest eSports - Team Dignitas	2:00:00 AM	1.78	1.96	11	NALCS
+04 Feb 2017 - Spring Season	6:00:00 PM	Roccat - Fnatic	1:02:00 AM	3.81	1.26	11	EULCS
+04 Feb 2017 - Spring Season	3:00:00 PM	Splyce - Origen	2:00:00 AM	1.19	4.35	11	EULCS
+04 Feb 2017 - Spring Season	2:00:00 AM	Team EnVyUs - Team Liquid	2:00:00 AM	3.18	1.33	11	NALCS
+03 Feb 2017 - Spring Season	11:00:00 PM	Immortals - Phoenix1	12:02:00 AM	2.54	1.48	11	NALCS
+03 Feb 2017 - Spring Season	7:00:00 PM	G2 Esports - Giants Gaming	2:00:00 AM	1.15	5.11	11	EULCS
+03 Feb 2017 - Spring Season	4:00:00 PM	Vitality - H2k-Gaming	1:02:00 AM	3.68	1.25	11	EULCS
+02 Feb 2017 - Spring Season	7:00:00 PM	Misfits - Fnatic	2:00:00 AM	1.79	1.96	11	EULCS
+02 Feb 2017 - Spring Season	4:00:00 PM	Splyce - Unicorns of Love	1:02:00 AM	2.25	1.6	11	EULCS
+29 Jan 2017 - Spring Season	11:00:00 PM	Cloud9 - Counter Logic Gaming	2:01:00 AM	1.26	3.69	11	NALCS
+29 Jan 2017 - Spring Season	11:00:00 PM	Team EnVyUs - Immortals	1:02:00 AM	3.38	1.32	10	NALCS
+29 Jan 2017 - Spring Season	8:00:00 PM	Echo Fox - FlyQuest eSports	2:01:00 AM	3.06	1.35	11	NALCS
+29 Jan 2017 - Spring Season	8:00:00 PM	Phoenix1 - Team Liquid	2:00:00 AM	2.18	1.63	11	NALCS
+29 Jan 2017 - Spring Season	6:00:00 PM	Giants Gaming - Roccat	2:01:00 AM	1.53	2.46	11	EULCS
+29 Jan 2017 - Spring Season	3:00:00 PM	Vitality - Origen	2:00:00 AM	1.52	2.45	11	EULCS
+28 Jan 2017 - Spring Season	11:00:00 PM	Team Dignitas - Echo Fox	1:02:00 AM	1.23	3.96	11	NALCS
+28 Jan 2017 - Spring Season	11:00:00 PM	Team Solomid - Team Liquid	2:01:00 AM	1.51	2.45	11	NALCS
+28 Jan 2017 - Spring Season	8:00:00 PM	Immortals - Cloud9	12:02:00 AM	2.81	1.4	11	NALCS
+28 Jan 2017 - Spring Season	8:00:00 PM	Phoenix1 - Team EnVyUs	2:00:00 AM	1.38	2.89	11	NALCS
+28 Jan 2017 - Spring Season	6:00:00 PM	G2 Esports - Misfits	2:01:00 AM	1.24	3.81	11	EULCS
+28 Jan 2017 - Spring Season	3:00:00 PM	H2k-Gaming - Unicorns of Love	1:02:00 AM	1.41	2.73	11	EULCS
+28 Jan 2017 - Spring Season	2:00:00 AM	Team Solomid - Team Dignitas	2:01:00 AM	1.67	2.11	11	NALCS
+27 Jan 2017 - Spring Season	11:00:00 PM	FlyQuest eSports - Counter Logic Gaming	2:00:00 AM	1.97	1.77	11	NALCS
+27 Jan 2017 - Spring Season	7:00:00 PM	Giants Gaming - Fnatic	1:02:00 AM	3.17	1.31	11	EULCS
+27 Jan 2017 - Spring Season	4:00:00 PM	Vitality - Splyce	12:02:00 AM	2.71	1.43	11	EULCS
+26 Jan 2017 - Spring Season	7:00:00 PM	Misfits - Roccat	2:00:00 AM	1.26	3.55	10	EULCS
+26 Jan 2017 - Spring Season	4:00:00 PM	Origen - Unicorns of Love	12:02:00 AM	4.26	1.2	11	EULCS
+22 Jan 2017 - Spring Season	11:00:00 PM	Team Dignitas - Cloud9	1:02:00 AM	2.59	1.47	11	NALCS
+22 Jan 2017 - Spring Season	8:00:00 PM	Team Solomid - Immortals	2:01:00 AM	1.46	2.62	11	NALCS
+21 Jan 2017 - Spring Season	11:00:00 PM	Echo Fox - Immortals	1:02:00 AM	3.77	1.25	10	NALCS
+21 Jan 2017 - Spring Season	8:00:00 PM	Counter Logic Gaming - Team Liquid	12:02:00 AM	1.68	2.12	11	NALCS
+21 Jan 2017 - Spring Season	6:00:00 PM	Splyce - H2k-Gaming	12:02:00 AM	1.79	1.94	11	EULCS
+21 Jan 2017 - Spring Season	3:00:00 PM	G2 Esports - Roccat	2:00:00 AM	1.11	6.06	11	EULCS
+21 Jan 2017 - Spring Season	2:00:00 AM	Echo Fox - Phoenix1	12:02:00 AM	2.67	1.44	11	NALCS
+20 Jan 2017 - Spring Season	11:00:00 PM	Team Solomid - Cloud9	12:02:00 AM	1.61	2.22	11	NALCS
+20 Jan 2017 - Spring Season	7:00:00 PM	Vitality - Unicorns of Love	12:02:00 AM	1.77	1.96	11	EULCS
+20 Jan 2017 - Spring Season	4:00:00 PM	Misfits - Giants Gaming	2:01:00 AM	1.4	2.81	10	EULCS
+19 Jan 2017 - Spring Season	7:00:00 PM	G2 Esports - Fnatic	2:01:00 AM	1.37	2.95	10	EULCS
+19 Jan 2017 - Spring Season	4:00:00 PM	Origen - H2k-Gaming	12:02:00 AM	5.33	1.13	10	EULCS
+18 Mar 2018 - Spring Season	11:00:00 PM	Team Liquid - Optic Gaming	1:00:00 AM	1.35	3.11	10	NALCS
+18 Mar 2018 - Spring Season	10:00:00 PM	Echo Fox - 100 Thieves	12:01:00 AM	1.83	1.94	10	NALCS
+18 Mar 2018 - Spring Season	9:00:00 PM	Counter Logic Gaming - Team Solomid	12:01:00 AM	2.4	1.55	10	NALCS
+18 Mar 2018 - Spring Season	8:00:00 PM	Golden Guardians - Clutch Gaming	12:01:00 AM	3.41	1.3	10	NALCS
+18 Mar 2018 - Spring Season	7:00:00 PM	Cloud9 - FlyQuest eSports	12:01:00 AM	1.37	3	10	NALCS
+18 Mar 2018 - Spring Season	1:00:00 AM	Counter Logic Gaming - Optic Gaming	12:01:00 AM	1.39	2.91	9	NALCS
+18 Mar 2018 - Spring Season	12:00:00 AM	Golden Guardians - Team Solomid	12:01:00 AM	3.46	1.29	10	NALCS
+18 Mar 2018 - Spring Season	11:00:00 PM	Team Liquid - Cloud9	1:00:00 AM	2.17	1.66	9	NALCS
+18 Mar 2018 - Spring Season	10:00:00 PM	FlyQuest eSports - Echo Fox	12:01:00 AM	2.9	1.39	10	NALCS
+18 Mar 2018 - Spring Season	9:00:00 PM	100 Thieves - Clutch Gaming	1:00:00 AM	1.9	1.86	9	NALCS
+18 Mar 2018 - Spring Season	8:40:00 PM	Fnatic - Schalke 04	1:00:00 AM	1.43	2.68	10	EULCS
+18 Mar 2018 - Spring Season	7:20:00 PM	G2 Esports - Vitality	1:00:00 AM	1.63	2.23	10	EULCS
+18 Mar 2018 - Spring Season	6:00:00 PM	Unicorns of Love - Misfits	12:01:00 AM	2.75	1.43	10	EULCS
+18 Mar 2018 - Spring Season	5:00:00 PM	H2k-Gaming - Roccat	1:00:00 AM	2.28	1.61	10	EULCS
+18 Mar 2018 - Spring Season	4:05:00 PM	Giants Gaming - Splyce	12:01:00 AM	2.5	1.51	10	EULCS
+16 Mar 2018 - Spring Season	9:00:00 PM	Unicorns of Love - G2 Esports	12:01:00 AM	2.88	1.4	9	EULCS
+16 Mar 2018 - Spring Season	8:00:00 PM	Giants Gaming - Fnatic	12:01:00 AM	2.91	1.39	10	EULCS
+16 Mar 2018 - Spring Season	8:00:00 PM	Misfits - Roccat	12:01:00 AM	1.63	2.23	9	EULCS
+16 Mar 2018 - Spring Season	7:05:00 PM	Splyce - Vitality	12:01:00 AM	1.58	2.33	9	EULCS
+16 Mar 2018 - Spring Season	5:10:00 PM	Schalke 04 - H2k-Gaming	12:01:00 AM	1.56	2.39	10	EULCS
+11 Mar 2018 - Spring Season	11:00:00 PM	Optic Gaming - 100 Thieves	12:01:00 AM	2.63	1.46	9	NALCS
+11 Mar 2018 - Spring Season	10:00:00 PM	Team Solomid - Cloud9	1:00:00 AM	1.96	1.81	9	NALCS
+11 Mar 2018 - Spring Season	8:50:00 PM	Clutch Gaming - Team Liquid	12:01:00 AM	1.94	1.82	9	NALCS
+11 Mar 2018 - Spring Season	8:00:00 PM	FlyQuest eSports - Golden Guardians	1:00:00 AM	1.67	2.15	10	NALCS
+11 Mar 2018 - Spring Season	7:00:00 PM	Echo Fox - Counter Logic Gaming	12:01:00 AM	1.51	2.53	10	NALCS
+11 Mar 2018 - Spring Season	1:00:00 AM	100 Thieves - Golden Guardians	1:00:00 AM	1.47	2.62	10	NALCS
+11 Mar 2018 - Spring Season	12:00:00 AM	Team Solomid - Team Liquid	1:00:00 AM	1.82	1.95	10	NALCS
+10 Mar 2018 - Spring Season	11:00:00 PM	Optic Gaming - Cloud9	12:01:00 AM	3.1	1.35	10	NALCS
+10 Mar 2018 - Spring Season	10:00:00 PM	FlyQuest eSports - Counter Logic Gaming	12:01:00 AM	2.27	1.61	10	NALCS
+10 Mar 2018 - Spring Season	9:00:00 PM	Clutch Gaming - Echo Fox	1:00:00 AM	2.23	1.63	10	NALCS
+10 Mar 2018 - Spring Season	7:00:00 PM	Schalke 04 - G2 Esports	1:00:00 AM	2.54	1.5	10	EULCS
+10 Mar 2018 - Spring Season	6:00:00 PM	Unicorns of Love - Fnatic	12:01:00 AM	2.87	1.4	10	EULCS
+10 Mar 2018 - Spring Season	5:00:00 PM	Vitality - Roccat	12:01:00 AM	1.57	2.36	10	EULCS
+10 Mar 2018 - Spring Season	4:00:00 PM	Splyce - H2k-Gaming	1:00:00 AM	1.49	2.56	10	EULCS
+10 Mar 2018 - Spring Season	3:00:00 PM	Misfits - Giants Gaming	12:01:00 AM	1.53	2.44	10	EULCS
+10 Mar 2018 - Spring Season	6:00:00 PM	Unicorns of Love - Fnatic	12:01:00 AM	2.87	1.4	10	EULCS
+10 Mar 2018 - Spring Season	5:00:00 PM	Vitality - Roccat	12:01:00 AM	1.57	2.36	10	EULCS
+10 Mar 2018 - Spring Season	4:00:00 PM	Splyce - H2k-Gaming	1:00:00 AM	1.49	2.56	10	EULCS
+10 Mar 2018 - Spring Season	3:00:00 PM	Misfits - Giants Gaming	12:01:00 AM	1.53	2.44	10	EULCS
+09 Mar 2018 - Spring Season	8:00:00 PM	Splyce - Misfits	1:00:00 AM	1.86	1.9	10	EULCS
+09 Mar 2018 - Spring Season	7:00:00 PM	Fnatic - Roccat	1:00:00 AM	1.45	2.69	10	EULCS
+09 Mar 2018 - Spring Season	6:00:00 PM	G2 Esports - H2k-Gaming	12:01:00 AM	1.39	2.95	10	EULCS
+09 Mar 2018 - Spring Season	5:00:00 PM	Vitality - Unicorns of Love	1:00:00 AM	1.68	2.1	10	EULCS
+09 Mar 2018 - Spring Season	4:00:00 PM	Giants Gaming - Schalke 04	12:01:00 AM	1.9	1.85	10	EULCS
+04 Mar 2018 - Spring Season	11:00:00 PM	FlyQuest eSports - Clutch Gaming	12:01:00 AM	2.53	1.5	10	NALCS
+04 Mar 2018 - Spring Season	10:00:00 PM	Cloud9 - Golden Guardians	1:00:00 AM	1.28	3.62	10	NALCS
+04 Mar 2018 - Spring Season	9:00:00 PM	100 Thieves - Team Solomid	1:00:00 AM	2.31	1.6	10	NALCS
+04 Mar 2018 - Spring Season	8:00:00 PM	Optic Gaming - Echo Fox	12:01:00 AM	2.94	1.39	10	NALCS
+04 Mar 2018 - Spring Season	7:00:00 PM	Counter Logic Gaming - Team Liquid	1:00:00 AM	2.77	1.43	10	NALCS
+04 Mar 2018 - Spring Season	1:00:00 AM	Clutch Gaming - Optic Gaming	1:00:00 AM	1.45	2.69	9	NALCS
+04 Mar 2018 - Spring Season	12:00:00 AM	Golden Guardians - Echo Fox	1:00:00 AM	4.05	1.23	9	NALCS
+03 Mar 2018 - Spring Season	11:00:00 PM	Cloud9 - Counter Logic Gaming	12:01:00 AM	1.34	3.19	9	NALCS
+03 Mar 2018 - Spring Season	10:00:00 PM	Team Solomid - FlyQuest eSports	1:00:00 AM	1.42	2.81	9	NALCS
+03 Mar 2018 - Spring Season	9:00:00 PM	Team Liquid - 100 Thieves	1:00:00 AM	1.59	2.31	10	NALCS
+03 Mar 2018 - Spring Season	7:30:00 PM	G2 Esports - Giants Gaming	1:00:00 AM	1.4	2.91	10	EULCS
+03 Mar 2018 - Spring Season	6:20:00 PM	Fnatic - Vitality	1:00:00 AM	1.56	2.4	10	EULCS
+03 Mar 2018 - Spring Season	5:20:00 PM	H2k-Gaming - Misfits	1:00:00 AM	2.75	1.44	10	EULCS
+03 Mar 2018 - Spring Season	4:20:00 PM	Unicorns of Love - Schalke 04	1:00:00 AM	2.2	1.65	7	EULCS
+03 Mar 2018 - Spring Season	3:00:00 PM	Roccat - Splyce	12:01:00 AM	2.11	1.7	10	EULCS
+02 Mar 2018 - Spring Season	8:00:00 PM	Misfits - Fnatic	1:00:00 AM	2.36	1.57	10	EULCS
+02 Mar 2018 - Spring Season	7:00:00 PM	Splyce - G2 Esports	1:00:00 AM	2.55	1.47	10	EULCS
+02 Mar 2018 - Spring Season	6:00:00 PM	Vitality - Schalke 04	1:00:00 AM	1.79	1.99	10	EULCS
+02 Mar 2018 - Spring Season	5:10:00 PM	H2k-Gaming - Unicorns of Love	12:01:00 AM	2.04	1.75	10	EULCS
+02 Mar 2018 - Spring Season	5:00:00 PM	Roccat - Giants Gaming	1:00:00 AM	2.05	1.72	10	EULCS
+25 Feb 2018 - Spring Season	11:00:00 PM	Cloud9 - Clutch Gaming	1:00:00 AM	1.49	2.5	10	NALCS
+25 Feb 2018 - Spring Season	10:00:00 PM	Counter Logic Gaming - Golden Guardians	12:01:00 AM	1.52	2.5	10	NALCS
+25 Feb 2018 - Spring Season	9:00:00 PM	Echo Fox - Team Liquid	1:00:00 AM	1.69	2.12	10	NALCS
+25 Feb 2018 - Spring Season	8:00:00 PM	FlyQuest eSports - 100 Thieves	12:01:00 AM	2.15	1.67	10	NALCS
+25 Feb 2018 - Spring Season	7:00:00 PM	Optic Gaming - Team Solomid	12:01:00 AM	2.48	1.52	10	NALCS
+25 Feb 2018 - Spring Season	1:00:00 AM	Team Liquid - FlyQuest eSports	1:00:00 AM	1.38	2.99	10	NALCS
+25 Feb 2018 - Spring Season	12:00:00 AM	Golden Guardians - Optic Gaming	12:01:00 AM	2.19	1.65	10	NALCS
+24 Feb 2018 - Spring Season	11:00:00 PM	Team Solomid - Echo Fox	1:00:00 AM	2.34	1.58	10	NALCS
+24 Feb 2018 - Spring Season	10:00:00 PM	Counter Logic Gaming - Clutch Gaming	12:01:00 AM	2.2	1.65	10	NALCS
+24 Feb 2018 - Spring Season	9:00:00 PM	100 Thieves - Cloud9	1:00:00 AM	3.02	1.37	10	NALCS
+24 Feb 2018 - Spring Season	7:30:00 PM	Misfits - Vitality	1:00:00 AM	1.79	1.97	10	EULCS
+24 Feb 2018 - Spring Season	6:40:00 PM	G2 Esports - Fnatic	12:01:00 AM	1.82	1.91	10	EULCS
+24 Feb 2018 - Spring Season	5:45:00 PM	Schalke 04 - Splyce	12:01:00 AM	1.81	1.92	10	EULCS
+24 Feb 2018 - Spring Season	4:25:00 PM	Giants Gaming - H2k-Gaming	12:01:00 AM	1.66	2.16	9	EULCS
+24 Feb 2018 - Spring Season	3:15:00 PM	Roccat - Unicorns of Love	12:01:00 AM	1.63	2.21	9	EULCS
+23 Feb 2018 - Spring Season	8:00:00 PM	Schalke 04 - Misfits	1:00:00 AM	2.21	1.64	10	EULCS
+23 Feb 2018 - Spring Season	7:00:00 PM	Vitality - Giants Gaming	12:01:00 AM	1.5	2.53	9	EULCS
+23 Feb 2018 - Spring Season	6:00:00 PM	Fnatic - H2k-Gaming	1:00:00 AM	1.32	3.31	10	EULCS
+23 Feb 2018 - Spring Season	5:00:00 PM	Roccat - G2 Esports	12:01:00 AM	2.86	1.41	10	EULCS
+23 Feb 2018 - Spring Season	4:00:00 PM	Unicorns of Love - Splyce	1:00:00 AM	2.64	1.46	10	EULCS
+18 Feb 2018 - Spring Season	11:35:00 PM	FlyQuest eSports - Optic Gaming	1:00:00 AM	1.83	2	10	NALCS
+18 Feb 2018 - Spring Season	10:00:00 PM	100 Thieves - Counter Logic Gaming	1:00:00 AM	1.88	1.89	10	NALCS
+18 Feb 2018 - Spring Season	9:00:00 PM	Echo Fox - Cloud9	1:00:00 AM	2.11	1.7	10	NALCS
+18 Feb 2018 - Spring Season	8:00:00 PM	Team Liquid - Golden Guardians	12:01:00 AM	1.21	4.26	10	NALCS
+18 Feb 2018 - Spring Season	7:00:00 PM	Clutch Gaming - Team Solomid	1:00:00 AM	2.44	1.53	10	NALCS
+18 Feb 2018 - Spring Season	1:00:00 AM	Optic Gaming - Golden Guardians	1:00:00 AM	1.62	2.25	10	NALCS
+18 Feb 2018 - Spring Season	12:00:00 AM	Clutch Gaming - FlyQuest eSports	1:00:00 AM	1.77	2.02	10	NALCS
+17 Feb 2018 - Spring Season	11:00:00 PM	Cloud9 - Team Solomid	1:00:00 AM	1.63	2.23	10	NALCS
+17 Feb 2018 - Spring Season	10:00:00 PM	100 Thieves - Echo Fox	12:01:00 AM	2.79	1.42	10	NALCS
+17 Feb 2018 - Spring Season	9:00:00 PM	Team Liquid - Counter Logic Gaming	1:00:00 AM	1.42	2.78	10	NALCS
+17 Feb 2018 - Spring Season	7:10:00 PM	Splyce - Fnatic	12:01:00 AM	2.4	1.54	9	EULCS
+17 Feb 2018 - Spring Season	6:10:00 PM	Misfits - G2 Esports	12:01:00 AM	2.06	1.73	8	EULCS
+17 Feb 2018 - Spring Season	5:00:00 PM	Schalke 04 - Roccat	12:01:00 AM	1.64	2.2	8	EULCS
+17 Feb 2018 - Spring Season	4:10:00 PM	H2k-Gaming - Vitality	1:00:00 AM	4.19	1.22	9	EULCS
+17 Feb 2018 - Spring Season	3:10:00 PM	Giants Gaming - Unicorns of Love	12:01:00 AM	1.43	2.75	9	EULCS
+16 Feb 2018 - Spring Season	8:00:00 PM	Schalke 04 - Fnatic	12:01:00 AM	2.24	1.62	9	EULCS
+16 Feb 2018 - Spring Season	7:10:00 PM	Vitality - G2 Esports	12:01:00 AM	1.75	2.03	9	EULCS
+16 Feb 2018 - Spring Season	6:00:00 PM	Misfits - Unicorns of Love	1:00:00 AM	1.3	3.38	10	EULCS
+16 Feb 2018 - Spring Season	5:05:00 PM	Roccat - H2k-Gaming	12:01:00 AM	1.27	3.62	9	EULCS
+16 Feb 2018 - Spring Season	4:15:00 PM	Splyce - Giants Gaming	1:00:00 AM	1.84	1.92	9	EULCS
+12 Feb 2018 - Spring Season	1:00:00 AM	Optic Gaming - Clutch Gaming	12:01:00 AM	2.25	1.62	10	NALCS
+12 Feb 2018 - Spring Season	12:00:00 AM	Team Liquid - Echo Fox	12:01:00 AM	1.71	2.09	10	NALCS
+11 Feb 2018 - Spring Season	11:00:00 PM	Team Solomid - Counter Logic Gaming	1:00:00 AM	1.51	2.49	10	NALCS
+11 Feb 2018 - Spring Season	10:00:00 PM	Golden Guardians - 100 Thieves	1:00:00 AM	4	1.23	10	NALCS
+11 Feb 2018 - Spring Season	9:00:00 PM	FlyQuest eSports - Cloud9	12:01:00 AM	3.1	1.35	10	NALCS
+11 Feb 2018 - Spring Season	1:00:00 AM	Echo Fox - Golden Guardians	1:00:00 AM	1.17	4.73	10	NALCS
+11 Feb 2018 - Spring Season	12:00:00 AM	100 Thieves - FlyQuest eSports	12:01:00 AM	1.36	3.03	10	NALCS
+10 Feb 2018 - Spring Season	11:00:00 PM	Optic Gaming - Counter Logic Gaming	1:00:00 AM	2.53	1.5	9	NALCS
+10 Feb 2018 - Spring Season	10:00:00 PM	Cloud9 - Team Liquid	1:00:00 AM	1.98	1.78	10	NALCS
+10 Feb 2018 - Spring Season	9:00:00 PM	Team Solomid - Clutch Gaming	12:01:00 AM	1.31	3.36	10	NALCS
+10 Feb 2018 - Spring Season	7:00:00 PM	G2 Esports - Unicorns of Love	1:00:00 AM	1.33	3.2	9	EULCS
+10 Feb 2018 - Spring Season	6:00:00 PM	Fnatic - Giants Gaming	1:00:00 AM	1.57	2.35	9	EULCS
+10 Feb 2018 - Spring Season	5:15:00 PM	Roccat - Misfits	1:00:00 AM	2.41	1.54	9	EULCS
+10 Feb 2018 - Spring Season	4:00:00 PM	H2k-Gaming - Schalke 04	12:01:00 AM	3.57	1.28	8	EULCS
+10 Feb 2018 - Spring Season	3:00:00 PM	Vitality - Splyce	1:00:00 AM	1.6	2.29	8	EULCS
+09 Feb 2018 - Spring Season	8:00:00 PM	G2 Esports - Schalke 04	1:00:00 AM	1.7	2.1	8	EULCS
+09 Feb 2018 - Spring Season	7:00:00 PM	Fnatic - Unicorns of Love	1:00:00 AM	1.29	3.43	8	EULCS
+09 Feb 2018 - Spring Season	6:00:00 PM	Giants Gaming - Misfits	1:00:00 AM	2.34	1.56	9	EULCS
+09 Feb 2018 - Spring Season	5:00:00 PM	Roccat - Vitality	12:01:00 AM	2.69	1.44	9	EULCS
+09 Feb 2018 - Spring Season	4:00:00 PM	H2k-Gaming - Splyce	12:01:00 AM	3.46	1.29	9	EULCS
+05 Feb 2018 - Spring Season	1:00:00 AM	Counter Logic Gaming - FlyQuest eSports	1:00:00 AM	1.53	2.42	9	NALCS
+05 Feb 2018 - Spring Season	12:00:00 AM	Clutch Gaming - Cloud9	12:01:00 AM	2.48	1.5	9	NALCS
+04 Feb 2018 - Spring Season	11:00:00 PM	Golden Guardians - Team Liquid	12:01:00 AM	4.9	1.16	9	NALCS
+04 Feb 2018 - Spring Season	10:00:00 PM	Team Solomid - 100 Thieves	1:00:00 AM	1.89	1.87	9	NALCS
+04 Feb 2018 - Spring Season	9:00:00 PM	Echo Fox - Optic Gaming	1:00:00 AM	1.28	3.49	9	NALCS
+04 Feb 2018 - Spring Season	1:00:00 AM	Team Solomid - Golden Guardians	1:00:00 AM	1.31	3.32	7	NALCS
+04 Feb 2018 - Spring Season	12:00:00 AM	FlyQuest eSports - Team Liquid	12:01:00 AM	3.74	1.26	8	NALCS
+03 Feb 2018 - Spring Season	11:00:00 PM	Clutch Gaming - 100 Thieves	12:01:00 AM	2.28	1.6	8	NALCS
+03 Feb 2018 - Spring Season	10:00:00 PM	Cloud9 - Optic Gaming	1:00:00 AM	1.34	3.2	8	NALCS
+03 Feb 2018 - Spring Season	9:00:00 PM	Counter Logic Gaming - Echo Fox	1:00:00 AM	2.92	1.39	8	NALCS
+03 Feb 2018 - Spring Season	7:00:00 PM	Misfits - Splyce	12:01:00 AM	1.47	2.63	9	EULCS
+03 Feb 2018 - Spring Season	6:00:00 PM	H2k-Gaming - G2 Esports	12:01:00 AM	3.08	1.35	9	EULCS
+03 Feb 2018 - Spring Season	5:00:00 PM	Roccat - Fnatic	12:01:00 AM	2.41	1.54	9	EULCS
+03 Feb 2018 - Spring Season	4:00:00 PM	Schalke 04 - Giants Gaming	1:00:00 AM	1.9	1.85	9	EULCS
+03 Feb 2018 - Spring Season	3:10:00 PM	Unicorns of Love - Vitality	12:01:00 AM	3.22	1.33	8	EULCS
+02 Feb 2018 - Spring Season	8:00:00 PM	Fnatic - Misfits	12:01:00 AM	1.75	2.03	9	EULCS
+02 Feb 2018 - Spring Season	7:00:00 PM	G2 Esports - Splyce	1:00:00 AM	1.64	2.2	9	EULCS
+02 Feb 2018 - Spring Season	6:20:00 PM	Schalke 04 - Vitality	12:01:00 AM	2.09	1.69	9	EULCS
+02 Feb 2018 - Spring Season	5:10:00 PM	Giants Gaming - Roccat	1:00:00 AM	1.83	1.95	9	EULCS
+02 Feb 2018 - Spring Season	4:00:00 PM	Unicorns of Love - H2k-Gaming	1:00:00 AM	1.86	1.89	9	EULCS
+29 Jan 2018 - Spring Season	1:00:00 AM	Team Liquid - Clutch Gaming	1:00:00 AM	1.32	3.35	10	NALCS
+29 Jan 2018 - Spring Season	12:00:00 AM	Golden Guardians - Counter Logic Gaming	12:01:00 AM	2.63	1.46	10	NALCS
+28 Jan 2018 - Spring Season	11:00:00 PM	Optic Gaming - FlyQuest eSports	1:00:00 AM	1.82	1.95	10	NALCS
+28 Jan 2018 - Spring Season	10:00:00 PM	Cloud9 - 100 Thieves	1:00:00 AM	1.87	1.88	10	NALCS
+28 Jan 2018 - Spring Season	9:00:00 PM	Echo Fox - Team Solomid	1:00:00 AM	1.59	2.37	10	NALCS
+28 Jan 2018 - Spring Season	1:00:00 AM	Golden Guardians - FlyQuest eSports	12:01:00 AM	2.13	1.68	10	NALCS
+28 Jan 2018 - Spring Season	12:00:00 AM	100 Thieves - Team Liquid	1:00:00 AM	2.23	1.62	10	NALCS
+27 Jan 2018 - Spring Season	11:00:00 PM	Cloud9 - Echo Fox	12:01:00 AM	1.73	2.06	10	NALCS
+27 Jan 2018 - Spring Season	10:00:00 PM	Team Solomid - Optic Gaming	1:00:00 AM	1.42	2.78	10	NALCS
+27 Jan 2018 - Spring Season	9:00:00 PM	Clutch Gaming - Counter Logic Gaming	1:00:00 AM	2.08	1.71	10	NALCS
+27 Jan 2018 - Spring Season	7:00:00 PM	Fnatic - G2 Esports	1:00:00 AM	1.62	2.24	7	EULCS
+27 Jan 2018 - Spring Season	6:00:00 PM	Splyce - Schalke 04	1:00:00 AM	2.09	1.71	7	EULCS
+27 Jan 2018 - Spring Season	5:00:00 PM	Vitality - Misfits	12:01:00 AM	2.12	1.68	7	EULCS
+27 Jan 2018 - Spring Season	4:00:00 PM	Unicorns of Love - Roccat	12:01:00 AM	1.83	1.96	7	EULCS
+27 Jan 2018 - Spring Season	3:00:00 PM	H2k-Gaming - Giants Gaming	12:01:00 AM	2.3	1.59	7	EULCS
+26 Jan 2018 - Spring Season	9:00:00 PM	Schalke 04 - Unicorns of Love	1:00:00 AM	1.51	2.47	9	EULCS
+26 Jan 2018 - Spring Season	7:40:00 PM	Vitality - Fnatic	1:00:00 AM	2.74	1.41	9	EULCS
+26 Jan 2018 - Spring Season	6:30:00 PM	Misfits - H2k-Gaming	1:00:00 AM	1.44	2.71	9	EULCS
+26 Jan 2018 - Spring Season	5:15:00 PM	Splyce - Roccat	12:01:00 AM	1.41	2.82	9	EULCS
+26 Jan 2018 - Spring Season	4:00:00 PM	Giants Gaming - G2 Esports	1:00:00 AM	2.71	1.45	9	EULCS
+22 Jan 2018 - Spring Season	1:00:00 AM	Echo Fox - Clutch Gaming	1:00:00 AM	1.54	2.42	10	NALCS
+22 Jan 2018 - Spring Season	12:00:00 AM	Golden Guardians - Cloud9	12:01:00 AM	2.91	1.39	10	NALCS
+21 Jan 2018 - Spring Season	11:00:00 PM	Counter Logic Gaming - 100 Thieves	12:01:00 AM	1.64	2.2	10	NALCS
+21 Jan 2018 - Spring Season	10:00:00 PM	FlyQuest eSports - Team Solomid	1:00:00 AM	2.67	1.46	10	NALCS
+21 Jan 2018 - Spring Season	9:00:00 PM	Optic Gaming - Team Liquid	12:01:00 AM	3.63	1.27	8	NALCS
+21 Jan 2018 - Spring Season	1:00:00 AM	Counter Logic Gaming - Cloud9	12:01:00 AM	1.68	2.14	9	NALCS
+21 Jan 2018 - Spring Season	12:00:00 AM	Echo Fox - FlyQuest eSports	1:00:00 AM	1.64	2.2	9	NALCS
+20 Jan 2018 - Spring Season	11:00:00 PM	Clutch Gaming - Golden Guardians	1:00:00 AM	1.55	2.41	9	NALCS
+20 Jan 2018 - Spring Season	10:00:00 PM	100 Thieves - Optic Gaming	1:00:00 AM	1.54	2.45	8	NALCS
+20 Jan 2018 - Spring Season	9:00:00 PM	Team Liquid - Team Solomid	1:00:00 AM	1.99	1.78	9	NALCS
+20 Jan 2018 - Spring Season	8:00:00 PM	Misfits - Schalke 04	1:00:00 AM	1.62	2.18	8	EULCS
+20 Jan 2018 - Spring Season	6:50:00 PM	G2 Esports - Roccat	12:01:00 AM	1.21	4.1	8	EULCS
+20 Jan 2018 - Spring Season	5:45:00 PM	H2k-Gaming - Fnatic	1:00:00 AM	4.37	1.19	8	EULCS
+20 Jan 2018 - Spring Season	4:15:00 PM	Splyce - Unicorns of Love	1:00:00 AM	1.55	2.34	8	EULCS
+20 Jan 2018 - Spring Season	3:00:00 PM	Giants Gaming - Vitality	12:01:00 AM	2.26	1.6	8	EULCS
+19 Jan 2018 - Spring Season	9:00:00 PM	Fnatic - Splyce	1:00:00 AM	1.35	3.05	9	EULCS
+19 Jan 2018 - Spring Season	7:50:00 PM	Roccat - Schalke 04	12:01:00 AM	2.45	1.51	9	EULCS
+19 Jan 2018 - Spring Season	6:50:00 PM	Unicorns of Love - Giants Gaming	12:01:00 AM	1.55	2.36	9	EULCS
+19 Jan 2018 - Spring Season	5:25:00 PM	Vitality - H2k-Gaming	1:00:00 AM	1.47	2.59	9	EULCS
+19 Jan 2018 - Spring Season	4:20:00 PM	G2 Esports - Misfits	1:00:00 AM	1.73	2.05	9	EULCS
+01 Jul 2018 - Summer Season	11:00:00 AM	G-Rex - ahq e-Sports club	1:02:00 AM	1.16	4.9	5	LMS
+01 Jul 2018 - Summer Season	8:00:00 AM	Hong Kong Attitude - J Team	1:02:00 AM	1.4	2.83	5	LMS
+30 Jun 2018 - Summer Season	11:00:00 AM	J Team - MAD Team	1:02:00 AM	2.31	1.56	6	LMS
+30 Jun 2018 - Summer Season	8:00:00 AM	Machi E-Sports - Team Afro	12:02:00 AM	1.18	4.57	6	LMS
+29 Jun 2018 - Summer Season	10:30:00 AM	MAD Team - G-Rex	2:01:00 AM	2.92	1.38	7	LMS
+29 Jun 2018 - Summer Season	8:00:00 AM	Team Afro - yoe Flash Wolves	12:02:00 AM	12.04	1.02	6	LMS
+28 Jun 2018 - Summer Season	11:00:00 AM	ahq e-Sports club - Hong Kong Attitude	12:02:00 AM	2.19	1.67	4	LMS
+28 Jun 2018 - Summer Season	8:00:00 AM	yoe Flash Wolves - Machi E-Sports	2:00:00 AM	1.15	4.83	5	LMS
+24 Jun 2018 - Summer Season	11:00:00 AM	Hong Kong Attitude - G-Rex	2:00:00 AM	3.69	1.26	6	LMS
+24 Jun 2018 - Summer Season	8:00:00 AM	Team Afro - J Team	12:02:00 AM	2.67	1.45	6	LMS
+23 Jun 2018 - Summer Season	11:00:00 AM	ahq e-Sports club - yoe Flash Wolves	12:02:00 AM	6.74	1.09	7	LMS
+23 Jun 2018 - Summer Season	8:00:00 AM	Machi E-Sports - MAD Team	1:02:00 AM	1.46	2.61	7	LMS
+22 Apr 2018 - Spring - Play Offs	8:15:00 AM	yoe Flash Wolves - G-Rex	3:00:00 AM	1.43	2.71	8	LMS
+15 Apr 2018 - Spring - Play Offs	10:30:00 AM	G-Rex - MAD Team	3:00:00 AM	1.18	4.51	8	LMS
+14 Apr 2018 - Spring - Play Offs	11:00:00 AM	Machi E-Sports - MAD Team	1:03:00 AM	1.49	2.85	8	LMS
+01 Apr 2018 - Spring Season	11:00:00 AM	ahq e-Sports club - J Team	2:00:00 AM	2.58	1.48	8	LMS
+31 Mar 2018 - Spring Season	11:00:00 AM	J Team - yoe Flash Wolves	12:02:00 AM	4.02	1.24	8	LMS
+30 Mar 2018 - Spring Season	11:00:00 AM	Machi E-Sports - G-Rex	1:02:00 AM	3.06	1.35	8	LMS
+30 Mar 2018 - Spring Season	8:00:00 AM	yoe Flash Wolves - ahq e-Sports club	2:00:00 AM	1.09	7.03	8	LMS
+29 Mar 2018 - Spring Season	11:00:00 AM	Team Afro - MAD Team	1:02:00 AM	2.73	1.43	8	LMS
+29 Mar 2018 - Spring Season	8:00:00 AM	Hong Kong Attitude - Machi E-Sports	12:02:00 AM	2.77	1.42	8	LMS
+25 Mar 2018 - Spring Season	11:20:00 AM	yoe Flash Wolves - Hong Kong Attitude	2:00:00 AM	1.09	7.05	7	LMS
+24 Mar 2018 - Spring Season	11:15:00 AM	Machi E-Sports - ahq e-Sports club	2:01:00 AM	2.1	1.69	8	LMS
+23 Mar 2018 - Spring Season	11:00:00 AM	G-Rex - Hong Kong Attitude	2:01:00 AM	1.12	5.82	8	LMS
+23 Mar 2018 - Spring Season	8:00:00 AM	Machi E-Sports - MAD Team	2:00:00 AM	1.51	2.52	8	LMS
+22 Mar 2018 - Spring Season	11:00:00 AM	J Team - G-Rex	12:02:00 AM	3.04	1.36	8	LMS
+22 Mar 2018 - Spring Season	8:00:00 AM	Team Afro - yoe Flash Wolves	12:02:00 AM	10.33	1.04	7	LMS
+18 Mar 2018 - Spring Season	11:00:00 AM	J Team - Machi E-Sports	12:02:00 AM	1.5	2.51	8	LMS
+17 Mar 2018 - Spring Season	11:00:00 AM	G-Rex - Team Afro	2:00:00 AM	1.11	6	8	LMS
+16 Mar 2018 - Spring Season	11:00:00 AM	Hong Kong Attitude - Team Afro	2:00:00 AM	1.63	2.22	7	LMS
+16 Mar 2018 - Spring Season	8:00:00 AM	ahq e-Sports club - MAD Team	1:02:00 AM	1.34	3.17	7	LMS
+15 Mar 2018 - Spring Season	11:00:00 AM	yoe Flash Wolves - MAD Team	2:01:00 AM	1.17	4.78	7	LMS
+15 Mar 2018 - Spring Season	8:00:00 AM	ahq e-Sports club - G-Rex	12:02:00 AM	2.69	1.44	8	LMS
+11 Mar 2018 - Spring Season	11:10:00 AM	MAD Team - Hong Kong Attitude	1:02:00 AM	1.8	1.96	7	LMS
+11 Mar 2018 - Spring Season	10:00:00 AM	Machi E-Sports - Team Afro	2:00:00 AM	1.49	2.53	8	LMS
+09 Mar 2018 - Spring Season	10:00:00 AM	G-Rex - yoe Flash Wolves	2:00:00 AM	3.39	1.31	8	LMS
+09 Mar 2018 - Spring Season	7:00:00 AM	Team Afro - J Team	12:02:00 AM	2.78	1.42	8	LMS
+08 Mar 2018 - Spring Season	10:00:00 AM	ahq e-Sports club - Hong Kong Attitude	2:00:00 AM	1.27	3.64	8	LMS
+08 Mar 2018 - Spring Season	7:00:00 AM	MAD Team - J Team	2:00:00 AM	3.42	1.3	8	LMS
+04 Mar 2018 - Spring Season	10:20:00 AM	Team Afro - ahq e-Sports club	12:02:00 AM	2.78	1.42	7	LMS
+03 Mar 2018 - Spring Season	10:00:00 AM	MAD Team - G-Rex	12:02:00 AM	2.65	1.46	8	LMS
+02 Mar 2018 - Spring Season	10:00:00 AM	Hong Kong Attitude - J Team	1:02:00 AM	5.12	1.16	7	LMS
+02 Mar 2018 - Spring Season	7:00:00 AM	yoe Flash Wolves - Machi E-Sports	2:00:00 AM	1.17	4.86	6	LMS
+01 Mar 2018 - Spring Season	10:00:00 AM	yoe Flash Wolves - J Team	2:00:00 AM	1.34	3.14	8	LMS
+01 Mar 2018 - Spring Season	7:00:00 AM	Team Afro - Machi E-Sports	2:01:00 AM	3.11	1.35	8	LMS
+28 Feb 2018 - Spring Season	10:00:00 AM	G-Rex - J Team	2:01:00 AM	1.74	2.03	7	LMS
+25 Feb 2018 - Spring Season	10:15:00 AM	Team Afro - Hong Kong Attitude	1:02:00 AM	1.59	2.28	8	LMS
+24 Feb 2018 - Spring Season	10:00:00 AM	MAD Team - yoe Flash Wolves	12:02:00 AM	3.64	1.26	8	LMS
+23 Feb 2018 - Spring Season	10:00:00 AM	Machi E-Sports - yoe Flash Wolves	12:02:00 AM	3.85	1.24	8	LMS
+23 Feb 2018 - Spring Season	7:00:00 AM	G-Rex - ahq e-Sports club	12:02:00 AM	1.32	3.2	8	LMS
+22 Feb 2018 - Spring Season	10:00:00 AM	J Team - ahq e-Sports club	2:00:00 AM	1.42	2.7	7	LMS
+22 Feb 2018 - Spring Season	7:00:00 AM	MAD Team - Team Afro	12:02:00 AM	1.41	2.77	7	LMS
+11 Feb 2018 - Spring Season	10:00:00 AM	Hong Kong Attitude - MAD Team	1:02:00 AM	2.67	1.45	7	LMS
+10 Feb 2018 - Spring Season	10:00:00 AM	Machi E-Sports - J Team	2:01:00 AM	2.88	1.39	8	LMS
+09 Feb 2018 - Spring Season	7:00:00 AM	ahq e-Sports club - Team Afro	1:02:00 AM	1.2	4.18	8	LMS
+08 Feb 2018 - Spring Season	11:00:00 AM	ahq e-Sports club - yoe Flash Wolves	1:02:00 AM	4.18	1.2	7	LMS
+08 Feb 2018 - Spring Season	7:00:00 AM	Hong Kong Attitude - G-Rex	1:02:00 AM	5.81	1.12	7	LMS
+04 Feb 2018 - Spring Season	10:15:00 AM	yoe Flash Wolves - G-Rex	2:00:00 AM	1.85	1.89	8	LMS
+03 Feb 2018 - Spring Season	10:00:00 AM	Hong Kong Attitude - yoe Flash Wolves	12:02:00 AM	6.61	1.1	7	LMS
+02 Feb 2018 - Spring Season	10:00:00 AM	MAD Team - Machi E-Sports	2:00:00 AM	3.28	1.32	7	LMS
+02 Feb 2018 - Spring Season	7:00:00 AM	J Team - Team Afro	2:01:00 AM	1.1	6.33	7	LMS
+01 Feb 2018 - Spring Season	10:00:00 AM	MAD Team - ahq e-Sports club	2:01:00 AM	3.45	1.29	8	LMS
+01 Feb 2018 - Spring Season	7:15:00 AM	G-Rex - Machi E-Sports	2:00:00 AM	1.57	2.33	7	LMS
+28 Jan 2018 - Spring Season	10:00:00 AM	G-Rex - MAD Team	2:00:00 AM	1.1	6.31	6	LMS
+27 Jan 2018 - Spring Season	10:00:00 AM	ahq e-Sports club - Machi E-Sports	12:02:00 AM	1.25	3.77	6	LMS
+26 Jan 2018 - Spring Season	10:00:00 AM	Team Afro - G-Rex	12:02:00 AM	6.31	1.11	7	LMS
+26 Jan 2018 - Spring Season	7:00:00 AM	J Team - Hong Kong Attitude	2:00:00 AM	1.35	3.05	8	LMS
+25 Jan 2018 - Spring Season	11:20:00 AM	yoe Flash Wolves - Team Afro	2:01:00 AM	1.03	9.93	8	LMS
+25 Jan 2018 - Spring Season	7:00:00 AM	Machi E-Sports - Hong Kong Attitude	2:01:00 AM	1.98	1.78	6	LMS
+21 Jan 2018 - Spring Season	10:00:00 AM	Hong Kong Attitude - ahq e-Sports club	12:02:00 AM	2.9	1.39	7	LMS
+20 Jan 2018 - Spring Season	10:00:00 AM	J Team - MAD Team	2:01:00 AM	1.1	6.23	7	LMS
+25 Aug 2017 - Summer - Play offs	7:50:00 AM	yoe Flash Wolves - ahq e-Sports club	3:00:00 AM	1.46	2.67	6	LMS
+20 Aug 2017 - Summer - Play offs	7:30:00 AM	Raise Gaming (League of Legends) - ahq e-Sports club	1:03:00 AM	3.8	1.23	4	LMS
+18 Aug 2017 - Summer - Play offs	7:30:00 AM	ahq e-Sports club - J Team	3:02:00 AM	1.4	2.87	6	LMS
+06 Aug 2017 - Summer Season	10:00:00 AM	J Team - Fireball	1:02:00 AM	1.03	10.79	2	LMS
+06 Aug 2017 - Summer Season	8:00:00 AM	yoe Flash Wolves - Raise Gaming (League of Legends)	2:01:00 AM	1.16	5.07	6	LMS
+05 Aug 2017 - Summer Season	11:40:00 AM	ahq e-Sports club - yoe Flash Wolves	12:02:00 AM	2.25	1.65	5	LMS
+05 Aug 2017 - Summer Season	8:00:00 AM	Raise Gaming (League of Legends) - Fireball	2:00:00 AM	1.02	12.83	5	LMS
+04 Aug 2017 - Summer Season	11:00:00 AM	Hong Kong Attitude - J Team	2:01:00 AM	3.82	1.25	5	LMS
+04 Aug 2017 - Summer Season	8:00:00 AM	Machi17 - yoe Flash Wolves	2:01:00 AM	4.49	1.18	5	LMS
+03 Aug 2017 - Summer Season	11:30:00 AM	Wayi Spider - Machi17	2:00:00 AM	2.8	1.39	5	LMS
+03 Aug 2017 - Summer Season	8:00:00 AM	Raise Gaming (League of Legends) - Hong Kong Attitude	2:01:00 AM	1.51	2.45	5	LMS
+02 Aug 2017 - Summer Season	10:00:00 AM	yoe Flash Wolves - Hong Kong Attitude	1:02:00 AM	1.06	8.76	6	LMS
+29 Jul 2017 - Summer Season	8:00:00 AM	ahq e-Sports club - Machi17	2:00:00 AM	1.26	3.81	6	LMS
+28 Jul 2017 - Summer Season	10:00:00 AM	Raise Gaming (League of Legends) - ahq e-Sports club	12:02:00 AM	2.52	1.51	6	LMS
+28 Jul 2017 - Summer Season	8:00:00 AM	Wayi Spider - J Team	12:02:00 AM	5.15	1.15	6	LMS
+27 Jul 2017 - Summer Season	10:00:00 AM	Hong Kong Attitude - Wayi Spider	2:01:00 AM	1.48	2.56	5	LMS
+27 Jul 2017 - Summer Season	8:20:00 AM	Machi17 - Fireball	2:00:00 AM	1.09	6.51	4	LMS
+23 Jul 2017 - Summer Season	11:00:00 AM	Wayi Spider - Raise Gaming (League of Legends)	1:02:00 AM	2.95	1.36	6	LMS
+23 Jul 2017 - Summer Season	8:00:00 AM	Machi17 - Hong Kong Attitude	2:01:00 AM	1.49	2.48	6	LMS
+22 Jul 2017 - Summer Season	10:00:00 AM	J Team - yoe Flash Wolves	12:02:00 AM	4.16	1.21	6	LMS
+22 Jul 2017 - Summer Season	8:00:00 AM	Fireball - Wayi Spider	12:02:00 AM	3.94	1.23	6	LMS
+21 Jul 2017 - Summer Season	10:00:00 AM	Hong Kong Attitude - ahq e-Sports club	2:00:00 AM	7.9	1.07	6	LMS
+21 Jul 2017 - Summer Season	8:00:00 AM	Fireball - yoe Flash Wolves	12:02:00 AM	13.34	1.02	5	LMS
+20 Jul 2017 - Summer Season	10:00:00 AM	Raise Gaming (League of Legends) - Machi17	2:00:00 AM	1.96	1.8	6	LMS
+20 Jul 2017 - Summer Season	8:00:00 AM	ahq e-Sports club - J Team	2:01:00 AM	1.49	2.53	6	LMS
+16 Jul 2017 - Summer Season	11:15:00 AM	ahq e-Sports club - Fireball	2:00:00 AM	1.03	10.2	5	LMS
+15 Jul 2017 - Summer Season	11:15:00 AM	Machi17 - J Team	2:00:00 AM	4.25	1.2	5	LMS
+14 Jul 2017 - Summer Season	11:00:00 AM	J Team - Raise Gaming (League of Legends)	2:00:00 AM	1.52	2.43	6	LMS
+14 Jul 2017 - Summer Season	8:00:00 AM	yoe Flash Wolves - Wayi Spider	2:01:00 AM	1.04	9.27	6	LMS
+13 Jul 2017 - Summer Season	10:00:00 AM	Wayi Spider - ahq e-Sports club	12:02:00 AM	6.8	1.08	6	LMS
+13 Jul 2017 - Summer Season	8:00:00 AM	Fireball - Hong Kong Attitude	12:02:00 AM	3.18	1.33	4	LMS
+01 Jul 2017 - Summer Season	10:50:00 AM	yoe Flash Wolves - J Team	2:00:00 AM	1.32	3.26	6	LMS
+01 Jul 2017 - Summer Season	8:20:00 AM	Hong Kong Attitude - Machi17	12:02:00 AM	1.54	2.41	5	LMS
+30 Jun 2017 - Summer Season	10:30:00 AM	Raise Gaming (League of Legends) - Wayi Spider	1:02:00 AM	1.06	8.78	7	LMS
+30 Jun 2017 - Summer Season	8:00:00 AM	Fireball - ahq e-Sports club	12:02:00 AM	12.53	1.02	7	LMS
+25 Jun 2017 - Summer Season	12:00:00 PM	ahq e-Sports club - Raise Gaming (League of Legends)	1:02:00 AM	1.6	2.2	7	LMS
+25 Jun 2017 - Summer Season	8:00:00 AM	Fireball - Machi17	1:02:00 AM	4.06	1.22	7	LMS
+24 Jun 2017 - Summer Season	10:00:00 AM	yoe Flash Wolves - ahq e-Sports club	2:01:00 AM	1.48	2.6	7	LMS
+24 Jun 2017 - Summer Season	8:00:00 AM	Wayi Spider - Hong Kong Attitude	12:02:00 AM	2.28	1.58	7	LMS
+23 Jun 2017 - Summer Season	10:00:00 AM	yoe Flash Wolves - Machi17	2:00:00 AM	1.05	8.51	6	LMS
+23 Jun 2017 - Summer Season	8:00:00 AM	Fireball - J Team	12:02:00 AM	8.5	1.05	7	LMS
+18 Jun 2017 - Summer Season	10:45:00 AM	Raise Gaming (League of Legends) - J Team	2:01:00 AM	3.12	1.36	7	LMS
+18 Jun 2017 - Summer Season	8:15:00 AM	Hong Kong Attitude - yoe Flash Wolves	12:02:00 AM	6.26	1.11	7	LMS
+17 Jun 2017 - Summer Season	10:00:00 AM	yoe Flash Wolves - Fireball	2:00:00 AM	1.1	6.67	6	LMS
+17 Jun 2017 - Summer Season	8:00:00 AM	J Team - ahq e-Sports club	2:00:00 AM	2.79	1.41	7	LMS
+16 Jun 2017 - Summer Season	10:00:00 AM	Hong Kong Attitude - Fireball	2:01:00 AM	1.17	4.84	7	LMS
+16 Jun 2017 - Summer Season	8:00:00 AM	Machi17 - Wayi Spider	2:01:00 AM	1.28	3.52	7	LMS
+11 Jun 2017 - Summer Season	11:00:00 AM	Machi17 - ahq e-Sports club	12:02:00 AM	6.65	1.09	7	LMS
+11 Jun 2017 - Summer Season	8:00:00 AM	Raise Gaming (League of Legends) - yoe Flash Wolves	2:00:00 AM	2.25	1.6	6	LMS
+10 Jun 2017 - Summer Season	10:00:00 AM	Wayi Spider - yoe Flash Wolves	2:00:00 AM	9.81	1.04	5	LMS
+10 Jun 2017 - Summer Season	8:00:00 AM	Hong Kong Attitude - Raise Gaming (League of Legends)	12:02:00 AM	1.39	2.87	6	LMS
+09 Jun 2017 - Summer Season	10:00:00 AM	J Team - Machi17	2:00:00 AM	1.22	4.05	7	LMS
+09 Jun 2017 - Summer Season	8:00:00 AM	Wayi Spider - Fireball	2:00:00 AM	3.46	1.29	7	LMS
+08 Jun 2017 - Summer Season	11:30:00 AM	Fireball - Raise Gaming (League of Legends)	12:02:00 AM	1.5	2.45	6	LMS
+08 Jun 2017 - Summer Season	8:00:00 AM	ahq e-Sports club - Hong Kong Attitude	2:01:00 AM	1.05	8.67	6	LMS
+04 Jun 2017 - Summer Season	10:00:00 AM	ahq e-Sports club - Wayi Spider	2:00:00 AM	1.02	12.16	6	LMS
+04 Jun 2017 - Summer Season	8:00:00 AM	J Team - Hong Kong Attitude	2:00:00 AM	1.32	3.31	6	LMS
+03 Jun 2017 - Summer Season	10:50:00 AM	Machi17 - Raise Gaming (League of Legends)	1:02:00 AM	1.06	8.43	6	LMS
+03 Jun 2017 - Summer Season	8:00:00 AM	J Team - Wayi Spider	2:00:00 AM	1.03	10.64	5	LMS
+23 Apr 2017 - Spring - Play Offs	8:00:00 AM	yoe Flash Wolves - ahq e-Sports club	3:01:00 AM	1.26	3.7	6	LMS
+22 Apr 2017 - Spring - Play Offs	8:25:00 AM	ahq e-Sports club - J Team	3:00:00 AM	1.25	3.56	6	LMS
+21 Apr 2017 - Spring - Play Offs	8:00:00 AM	Machi17 - J Team	1:03:00 AM	2.8	1.41	7	LMS
+09 Apr 2017 - Spring Season	11:00:00 AM	ahq e-Sports club - Fireball	2:00:00 AM	1.08	7.15	7	LMS
+09 Apr 2017 - Spring Season	10:25:00 AM	Hong Kong Esports - yoe Flash Wolves	12:02:00 AM	7.99	1.07	7	LMS
+08 Apr 2017 - Spring Season	1:00:00 PM	ahq e-Sports club - J Team	1:02:00 AM	1.2	4.26	7	LMS
+08 Apr 2017 - Spring Season	11:00:00 AM	yoe Flash Wolves - Fireball	2:00:00 AM	1.03	10.93	7	LMS
+07 Apr 2017 - Spring Season	1:00:00 PM	eXtreme Gamers - Machi17	12:02:00 AM	11.1	1.06	7	LMS
+07 Apr 2017 - Spring Season	11:00:00 AM	Wayi Spider - J Team	12:02:00 AM	11.97	1.02	7	LMS
+02 Apr 2017 - Spring Season	11:00:00 AM	Hong Kong Esports - Machi17	12:02:00 AM	2.19	1.64	7	LMS
+02 Apr 2017 - Spring Season	8:00:00 AM	eXtreme Gamers - yoe Flash Wolves	12:02:00 AM	12.89	1.02	7	LMS
+01 Apr 2017 - Spring Season	1:00:00 PM	eXtreme Gamers - Hong Kong Esports	12:02:00 AM	7.06	1.08	6	LMS
+01 Apr 2017 - Spring Season	11:00:00 AM	Machi17 - Wayi Spider	2:01:00 AM	1.03	11.43	7	LMS
+31 Mar 2017 - Spring Season	1:00:00 PM	ahq e-Sports club - Wayi Spider	2:00:00 AM	1.01	13.16	6	LMS
+31 Mar 2017 - Spring Season	11:00:00 AM	J Team - Fireball	2:00:00 AM	1.17	4.63	7	LMS
+26 Mar 2017 - Spring Season	10:25:00 AM	yoe Flash Wolves - Wayi Spider	2:00:00 AM	1.02	13	7	LMS
+26 Mar 2017 - Spring Season	8:15:00 AM	eXtreme Gamers - ahq e-Sports club	12:02:00 AM	13.16	1.02	7	LMS
+25 Mar 2017 - Spring Season	1:00:00 PM	Wayi Spider - Fireball	12:02:00 AM	5.01	1.15	7	LMS
+25 Mar 2017 - Spring Season	11:00:00 AM	Hong Kong Esports - ahq e-Sports club	12:02:00 AM	7.64	1.08	7	LMS
+24 Mar 2017 - Spring Season	1:00:00 PM	Machi17 - Fireball	2:01:00 AM	1.29	3.5	7	LMS
+24 Mar 2017 - Spring Season	11:00:00 AM	J Team - Hong Kong Esports	2:00:00 AM	1.46	2.63	7	LMS
+19 Mar 2017 - Spring Season	1:00:00 PM	J Team - yoe Flash Wolves	12:02:00 AM	5.5	1.15	7	LMS
+19 Mar 2017 - Spring Season	11:00:00 AM	Machi17 - ahq e-Sports club	12:02:00 AM	4.48	1.19	6	LMS
+18 Mar 2017 - Spring Season	1:00:00 PM	eXtreme Gamers - J Team	12:02:00 AM	6.15	1.11	7	LMS
+18 Mar 2017 - Spring Season	11:00:00 AM	Machi17 - yoe Flash Wolves	12:02:00 AM	7.88	1.07	6	LMS
+17 Mar 2017 - Spring Season	1:00:00 PM	Hong Kong Esports - Wayi Spider	2:00:00 AM	1.07	7.5	7	LMS
+17 Mar 2017 - Spring Season	11:00:00 AM	eXtreme Gamers - Fireball	1:02:00 AM	2.99	1.37	7	LMS
+12 Mar 2017 - Spring Season	11:00:00 AM	Machi17 - J Team	2:01:00 AM	2.83	1.4	7	LMS
+12 Mar 2017 - Spring Season	8:20:00 AM	Wayi Spider - eXtreme Gamers	12:02:00 AM	2.07	1.71	7	LMS
+11 Mar 2017 - Spring Season	12:00:00 PM	yoe Flash Wolves - ahq e-Sports club	2:00:00 AM	1.55	2.37	7	LMS
+11 Mar 2017 - Spring Season	10:00:00 AM	Fireball - Hong Kong Esports	12:02:00 AM	2.58	1.48	7	LMS
+10 Mar 2017 - Spring Season	10:00:00 AM	yoe Flash Wolves - eXtreme Gamers	2:00:00 AM	1.01	13.32	6	LMS
+10 Mar 2017 - Spring Season	7:00:00 AM	Machi17 - Hong Kong Esports	2:01:00 AM	1.89	1.84	6	LMS
+05 Mar 2017 - Spring Season	10:00:00 AM	Machi17 - eXtreme Gamers	2:00:00 AM	1.14	5.37	7	LMS
+05 Mar 2017 - Spring Season	7:00:00 AM	Fireball - ahq e-Sports club	12:02:00 AM	7.56	1.07	7	LMS
+04 Mar 2017 - Spring Season	12:00:00 PM	J Team - ahq e-Sports club	12:02:00 AM	4.05	1.2	7	LMS
+04 Mar 2017 - Spring Season	10:00:00 AM	Fireball - yoe Flash Wolves	12:02:00 AM	7.72	1.07	6	LMS
+03 Mar 2017 - Spring Season	12:00:00 PM	J Team - Wayi Spider	2:00:00 AM	1.06	8.47	7	LMS
+03 Mar 2017 - Spring Season	7:00:00 AM	Hong Kong Esports - eXtreme Gamers	2:01:00 AM	1.12	5.78	7	LMS
+18 Feb 2017 - Spring Season	12:00:00 PM	yoe Flash Wolves - Hong Kong Esports	2:00:00 AM	1.12	5.71	6	LMS
+18 Feb 2017 - Spring Season	10:00:00 AM	Wayi Spider - Machi17	12:02:00 AM	3.96	1.23	6	LMS
+17 Feb 2017 - Spring Season	12:00:00 PM	Fireball - J Team	1:02:00 AM	4.33	1.19	5	LMS
+17 Feb 2017 - Spring Season	10:00:00 AM	Wayi Spider - ahq e-Sports club	12:02:00 AM	12.21	1.01	5	LMS
+12 Feb 2017 - Spring Season	10:00:00 AM	Wayi Spider - yoe Flash Wolves	12:02:00 AM	8.6	1.05	5	LMS
+12 Feb 2017 - Spring Season	7:00:00 AM	ahq e-Sports club - eXtreme Gamers	2:00:00 AM	1.06	8.96	6	LMS
+11 Feb 2017 - Spring Season	10:00:00 AM	ahq e-Sports club - Hong Kong Esports	2:00:00 AM	1.18	4.49	6	LMS
+11 Feb 2017 - Spring Season	7:00:00 AM	Fireball - Wayi Spider	2:00:00 AM	1.42	2.73	6	LMS
+10 Feb 2017 - Spring Season	12:00:00 PM	Fireball - Machi17	1:02:00 AM	2.69	1.44	6	LMS
+10 Feb 2017 - Spring Season	10:00:00 AM	Hong Kong Esports - J Team	12:02:00 AM	2.53	1.5	6	LMS
+05 Feb 2017 - Spring Season	12:00:00 PM	ahq e-Sports club - Machi17	2:00:00 AM	1.15	4.73	5	LMS
+05 Feb 2017 - Spring Season	10:00:00 AM	Fireball - eXtreme Gamers	2:00:00 AM	1.72	2.04	4	LMS
+04 Feb 2017 - Spring Season	12:00:00 PM	J Team - eXtreme Gamers	2:00:00 AM	1.19	4.46	5	LMS
+04 Feb 2017 - Spring Season	10:00:00 AM	yoe Flash Wolves - Machi17	2:00:00 AM	1.14	5.27	4	LMS
+03 Feb 2017 - Spring Season	12:00:00 PM	Wayi Spider - Hong Kong Esports	12:02:00 AM	3.47	1.29	5	LMS
+03 Feb 2017 - Spring Season	10:00:00 AM	yoe Flash Wolves - J Team	2:00:00 AM	1.18	4.55	4	LMS
+22 Jan 2017 - Spring Season	12:00:00 PM	eXtreme Gamers - Wayi Spider	2:01:00 AM	2.52	1.5	6	LMS
+22 Jan 2017 - Spring Season	10:00:00 AM	J Team - Machi17	2:01:00 AM	1.45	2.66	5	LMS
+21 Jan 2017 - Spring Season	12:00:00 PM	Hong Kong Esports - Fireball	2:01:00 AM	1.22	4.14	6	LMS
+21 Jan 2017 - Spring Season	10:00:00 AM	ahq e-Sports club - yoe Flash Wolves	1:02:00 AM	3.34	1.3	5	LMS
